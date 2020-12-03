@@ -42,7 +42,7 @@ def get_tweets(query, count = 300):
     api = tweepy.API(auth)
     # empty list to store parsed tweets
     tweets = []
-    target = io.open("tweets.txt", 'w', encoding='utf-8')
+    target = io.open("data/tweets.txt", 'w', encoding='utf-8')
     # call twitter api to fetch tweets
     parsed_tweets = []
     for ticker in tickers:
@@ -70,7 +70,7 @@ def get_tweets(query, count = 300):
 def get_articles():
     finwiz_url = 'https://finviz.com/quote.ashx?t='
     news_tables = {}
-    f = open('articles.csv', 'w')
+    f = open('data/articles.csv', 'w')
 
     for ticker in tickers:
         url = finwiz_url + ticker
@@ -135,7 +135,7 @@ def sentimentAnalysisArticlesVader():
 
     parsed_and_scored_news.head()
     print(parsed_and_scored_news)
-    parsed_and_scored_news.to_csv('articleOpinionValsVader.csv')
+    parsed_and_scored_news.to_csv('data/articleOpinionValsVader.csv')
 
 
 def sentimentAnalysisTweetsVader():
@@ -160,7 +160,7 @@ def sentimentAnalysisTweetsVader():
 
     parsed_and_scored_tweets.head()
     print(parsed_and_scored_tweets)
-    parsed_and_scored_tweets.to_csv('twitterOpinionValsVader.csv')
+    parsed_and_scored_tweets.to_csv('data/twitterOpinionValsVader.csv')
 
 
 def sentimentAnalysisArticles():
@@ -195,7 +195,7 @@ def sentimentAnalysisArticles():
 
     parsed_and_scored_news.head()
     print(parsed_and_scored_news)
-    parsed_and_scored_news.to_csv('articleOpinionVals.csv')
+    parsed_and_scored_news.to_csv('data/articleOpinionVals.csv')
 
 
 def sentimentAnalysisTweets():
@@ -227,7 +227,7 @@ def sentimentAnalysisTweets():
 
     parsed_and_scored_tweets.head()
     print(parsed_and_scored_tweets)
-    parsed_and_scored_tweets.to_csv('twitterOpinionVals.csv')
+    parsed_and_scored_tweets.to_csv('data/twitterOpinionVals.csv')
 w_features = []
 sentimentAnalysisTweetsVader()
 sentimentAnalysisArticlesVader()
