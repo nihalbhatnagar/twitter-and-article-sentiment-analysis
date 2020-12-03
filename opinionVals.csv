@@ -1,0 +1,801 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,AMZN,2020-12-02,10:45AM,Walmart Drops Free Shipping Minimum for Nongrocery Orders for Walmart+ Members,0.0,0.752,0.248,0.5106
+1,AMZN,2020-12-02,10:21AM,The Retail Revolution Isnt Over Yet. Amazon Wont Be the Only Winner.,0.099,0.653,0.248,0.5076
+2,AMZN,2020-12-02,10:19AM,Tracee Ellis Ross: The pandemic has 'reinvigorated my mission' for my brand,0.0,0.791,0.209,0.4404
+3,AMZN,2020-12-02,10:09AM,Walmart Rolls Back Shipping Fees as It Takes on Amazon,0.0,0.841,0.159,0.1779
+4,AMZN,2020-12-02,09:59AM,Microsoft (MSFT) to Boost CNH Industrial's Digital Capabilities,0.0,0.722,0.278,0.4019
+5,AMZN,2020-12-02,09:53AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+6,AMZN,2020-12-02,09:44AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+7,AMZN,2020-12-02,09:44AM,"Salesforce CEO Marc Benioff calls Slack a '1+1=3' deal, part of a $50 billion dream",0.0,0.857,0.143,0.25
+8,AMZN,2020-12-02,09:32AM,Why GoodRx Stock Was Down 22% in November,0.0,1.0,0.0,0.0
+9,AMZN,2020-12-02,09:30AM,All the Happiness Money Can Buy in the Winter of Covid-19,0.0,0.735,0.265,0.5574
+10,AMZN,2020-12-02,09:24AM,This Is the Big Ticking Time Bomb in Retail's Recovery,0.262,0.738,0.0,-0.4939
+11,AMZN,2020-12-02,09:22AM,"Uber, JetBlue join Amazon-backed Climate Pledge fund",0.0,0.708,0.292,0.3566
+12,AMZN,2020-12-02,09:13AM,This ETF Could Help Grow Your Retirement Account,0.0,0.722,0.278,0.4019
+13,AMZN,2020-12-02,09:08AM,"Alphabet Ups Self-Driving Game: Should Amazon, Baidu & Others Worry?",0.25,0.603,0.147,-0.296
+14,AMZN,2020-12-02,09:07AM,Intel's Habana starts to chip away at Nvidia in cloud with AWS deal,0.0,1.0,0.0,0.0
+15,AMZN,2020-12-02,09:06AM,Report: Amazon Pushing to Develop an In-House Quantum Computer,0.0,0.825,0.175,0.1779
+16,AMZN,2020-12-02,09:00AM,Intel's Habana starts to chip away at Nvidia in cloud with AWS deal,0.0,1.0,0.0,0.0
+17,AMZN,2020-12-02,09:00AM,"Uber, JetBlue join Amazon-backed Climate Pledge fund",0.0,0.708,0.292,0.3566
+18,AMZN,2020-12-02,09:00AM,"Uber, Rivian, JetBlue, Cabify, and Boom Supersonic Sign The Climate Pledge",0.0,1.0,0.0,0.0
+19,AMZN,2020-12-02,08:58AM,China and India pose real risk if U.S. tech cant grow: Box CEO,0.149,0.851,0.0,-0.2732
+20,AMZN,2020-12-02,08:37AM,BlackBerry (BB) Stock Soars on AWS Deal for Smart Vehicle Data,0.0,0.787,0.213,0.4019
+21,AMZN,2020-12-02,08:35AM,"Amazon's (AMZN) AWS Extends Deal With Zoom, Boosts Clientele",0.0,0.648,0.352,0.4215
+22,AMZN,2020-12-02,08:00AM,Amazon Continues Investment in Nevada with Thousands of Jobs to Support Operations,0.0,0.694,0.306,0.5267
+23,AMZN,2020-12-02,07:45AM,Better Buy: Amazon vs. Facebook,0.0,0.395,0.605,0.5574
+24,AMZN,2020-12-02,07:37AM,"In Energy Drinks, Is Celsius the David to Monster's Goliath?",0.0,0.811,0.189,0.2732
+25,AMZN,2020-12-02,07:00AM,Twitch and TikTok Help Breakthrough Artists to Bypass Big Music,0.0,0.769,0.231,0.4019
+26,AMZN,2020-12-02,07:00AM,"Got $3,000? Here Are 3 Cloud Computing Stocks That Have a Killer Advantage",0.281,0.588,0.131,-0.5106
+27,AMZN,2020-12-02,07:00AM,A $1B Stock Fund Sees Big Returns by Investing in the Smallest Companies,0.0,1.0,0.0,0.0
+28,AMZN,2020-12-02,06:20AM,What's the Outlook for CVS Health Stock?,0.0,1.0,0.0,0.0
+29,AMZN,2020-12-02,01:32AM,SoftBank Is Winding Down Options Bets After Investor Fallout,0.0,1.0,0.0,0.0
+30,AMZN,2020-12-02,12:01AM,Walmart waives online order minimum on free shipping for Plus members,0.0,0.752,0.248,0.5106
+31,AMZN,2020-12-01,11:49PM,"BlackBerry to Host Investor Fireside Chat to Discuss New Intelligent Vehicle Data Platform, BlackBerry IVY",0.0,0.824,0.176,0.4588
+32,AMZN,2020-12-01,10:07PM,Tata Near Deal to Buy Alibaba-Backed Indian Online Grocer,0.0,1.0,0.0,0.0
+33,AMZN,2020-12-01,07:40PM,What Are the Top U.S. Imports?,0.0,0.735,0.265,0.2023
+34,AMZN,2020-12-01,07:27PM,Salesforce to Buy Software Maker Slack for $27.7 Billion,0.0,1.0,0.0,0.0
+35,AMZN,2020-12-01,05:17PM,Salesforces Splashy Slack Deal Isn't Worth the Risk,0.176,0.633,0.191,0.0382
+36,AMZN,2020-12-01,05:00PM,"To Avoid Techs Anti-Trust Troubles, India Tries a Hard 30% Cap",0.485,0.515,0.0,-0.6808
+37,AMZN,2020-12-01,04:27PM,BlackBerry Teams Up With Amazon Web Services to Manage Vehicle Sensor Data,0.0,0.866,0.134,0.1779
+38,AMZN,2020-12-01,04:20PM,BlackBerry Surges Most Since 2015 on Amazon Collaboration,0.0,0.805,0.195,0.1779
+39,AMZN,2020-12-01,04:01PM,IBD 50 Stock To Watch: Can Etsy Stock Make Good On Its Breakout?,0.0,0.805,0.195,0.4404
+40,AMZN,2020-12-01,03:19PM,Cyber Monday Sales Hit a Record $10.8 Billion,0.0,1.0,0.0,0.0
+41,AMZN,2020-12-01,03:17PM,"Dow Jones Jumps as Apple Stock Rallies, Salesforce.com Stock Slumps Ahead of Earnings",0.0,1.0,0.0,0.0
+42,AMZN,2020-12-01,03:07PM,Amazon Is Laying the Groundwork for Its Own Quantum Computer,0.0,0.841,0.159,0.1779
+43,AMZN,2020-12-01,02:30PM,"AWS announces Panorama, a device that adds machine learning technology to any camera",0.0,1.0,0.0,0.0
+44,AMZN,2020-12-01,02:27PM,Amazon opens macOS development for first time on AWS,0.0,0.825,0.175,0.1779
+45,AMZN,2020-12-01,02:19PM,AWS launches new services for its industrial customers,0.0,1.0,0.0,0.0
+46,AMZN,2020-12-01,02:19PM,Amazon's Holiday Sales Jump 60%,0.0,0.597,0.403,0.4019
+47,AMZN,2020-12-01,02:00PM,AWS Announces Three New Analytics Capabilities,0.0,1.0,0.0,0.0
+48,AMZN,2020-12-01,02:00PM,"AWS Announces the Next Version of Amazon Aurora Serverless, a New Capability that Makes it Easier to Migrate from SQL Server to Amazon Aurora, and an Open Source Project to Help More Organizations Leave SQL Server for PostgreSQL",0.035,0.755,0.21,0.7522
+49,AMZN,2020-12-01,02:00PM,AWS Announces Four Storage Innovations,0.0,1.0,0.0,0.0
+50,AMZN,2020-12-01,02:00PM,AWS Announces Four New Container Capabilities,0.0,1.0,0.0,0.0
+51,AMZN,2020-12-01,02:00PM,"AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Experiences for CustomersAll Powered by AWSs Industry-Leading Machine Learning Technology",0.0,0.704,0.296,0.8434
+52,AMZN,2020-12-01,02:00PM,AWS Announces Five Industrial Machine Learning Services,0.0,1.0,0.0,0.0
+53,AMZN,2020-12-01,02:00PM,AWS Announces Amazon DevOps Guru,0.0,0.702,0.298,0.1779
+54,AMZN,2020-12-01,01:33PM,Why BlackBerry Stock Is Skyrocketing Today,0.0,1.0,0.0,0.0
+55,AMZN,2020-12-01,01:21PM,AWS adds natural language search service for business intelligence from its data sets,0.0,0.663,0.337,0.6808
+56,AMZN,2020-12-01,01:13PM,You'll Never Guess the 2 Stocks Leading the Market Higher Tuesday,0.0,1.0,0.0,0.0
+57,AMZN,2020-12-01,12:58PM,Why Kohl's Stock Popped Today,0.0,1.0,0.0,0.0
+58,AMZN,2020-12-01,12:45PM,2 Reasons Amazon Will Keep Taking Ad Sales From Google,0.0,0.825,0.175,0.1779
+59,AMZN,2020-12-01,12:16PM,Holiday shopping season: Expect a lump of coal in retailers stockings thanks to COVID-19,0.0,0.663,0.337,0.6808
+60,AMZN,2020-12-01,12:15PM,Better Buy: Roku vs. Disney,0.0,0.58,0.42,0.4404
+61,AMZN,2020-12-01,12:09PM,Amazon's cloud unit taps own chips for new supercomputing offering,0.0,1.0,0.0,0.0
+62,AMZN,2020-12-01,12:05PM,"Cyber Monday Sales Set a Record, but It Wasnt the Blowout Anticipated",0.0,1.0,0.0,0.0
+63,AMZN,2020-12-01,12:00PM,The Key Metric Nutanix Investors Should Watch,0.0,1.0,0.0,0.0
+64,AMZN,2020-12-01,12:00PM,Amazon Smashes Records as Pandemic Spurs Online Holiday Shopping,0.0,0.614,0.386,0.5267
+65,AMZN,2020-12-01,11:58AM,"AWS launches Trainium, its new custom ML training chip",0.0,1.0,0.0,0.0
+66,AMZN,2020-12-01,11:45AM,BlackBerry Stock Jumps 50% on Deal With Amazon Web Services for Connected Car Software,0.0,0.884,0.116,0.1779
+67,AMZN,2020-12-01,11:16AM,BlackBerrys stock rockets toward best day in 17 years after development deal with Amazons AWS,0.06,0.71,0.23,0.6249
+68,AMZN,2020-12-01,11:06AM,Cyber Monday rings up record $10.8 billion in sales with Amazon touting biggest holiday shopping season so far,0.081,0.711,0.209,0.4019
+69,AMZN,2020-12-01,11:06AM,BlackBerry Leaps After Deal With Amazon Cloud Business,0.0,0.805,0.195,0.1779
+70,AMZN,2020-12-01,11:00AM,IMDb Announces the Top Stars and Top Breakout Stars of 2020 and Presents a STARmeter Award to Anya Chalotra,0.0,0.679,0.321,0.7269
+71,AMZN,2020-12-01,10:57AM,This Software Stock Could Be a Big Winner From a COVID-19 Vaccine,0.0,0.703,0.297,0.5859
+72,AMZN,2020-12-01,10:53AM,"AWS Announces Multiple New Compute Innovations, Including Five New Instance Types for Amazon EC2, Two New AWS Outposts SKUs, and Three New AWS Local Zones Locations Across the US",0.0,0.943,0.057,0.1779
+73,AMZN,2020-12-01,10:47AM,Amazon.com (AMZN) Stock Could Continue to Rise in 2021. Heres Why.,0.0,1.0,0.0,0.0
+74,AMZN,2020-12-01,10:38AM,"Amazon (AMZN) AWS Picked by Itau Unibanco, Cloud Service in Focus",0.0,0.855,0.145,0.1779
+75,AMZN,2020-12-01,10:36AM,5 Top Stocks to Buy in December,0.0,0.735,0.265,0.2023
+76,AMZN,2020-12-01,10:30AM,Boom Supersonic Goes All-In on AWS,0.0,1.0,0.0,0.0
+77,AMZN,2020-12-01,10:22AM,Kohls Stock Is Soaring Because Sephora Is Coming to Its Stores,0.0,1.0,0.0,0.0
+78,AMZN,2020-12-01,10:14AM,"Cyber Monday Shoppers Spent $10.8 Billion, Missing Projection",0.239,0.761,0.0,-0.296
+79,AMZN,2020-12-01,10:10AM,CNBCs Jim Cramer says these best in show stocks remain the place for your investment dollars,0.0,0.781,0.219,0.6369
+80,AMZN,2020-12-01,10:10AM,3 Stocks Robinhood Investors Love,0.0,0.417,0.583,0.6369
+81,AMZN,2020-12-01,10:09AM,BlackBerry shares rocket upwards on AWS deal to integrate sensor data in vehicles,0.0,0.845,0.155,0.296
+82,AMZN,2020-12-01,09:22AM,Amazon (AMZN) AWS' Mac Instances Boost Reach to Apple Developers,0.0,0.56,0.44,0.5423
+83,AMZN,2020-12-01,09:18AM,Nasdaq-100 at Cusp of Another Breakout,0.0,1.0,0.0,0.0
+84,AMZN,2020-12-01,08:48AM,BlackBerry's stock soars after development agreement with Amazon's AWS,0.0,0.714,0.286,0.4939
+85,AMZN,2020-12-01,08:36AM,Will Alibaba's Cloud Business Ever Generate a Profit?,0.0,0.674,0.326,0.4404
+86,AMZN,2020-12-01,08:30AM,How Risky Is Snowflake Stock?,0.31,0.69,0.0,-0.2023
+87,AMZN,2020-12-01,08:15AM,JFrog's Recent Stock Decline Is Just Short-Term Noise,0.0,1.0,0.0,0.0
+88,AMZN,2020-12-01,08:05AM,Don't Waste Your Money on Penny Stocks. These 3 Stocks Are Better Buys,0.0,0.657,0.343,0.6407
+89,AMZN,2020-12-01,08:00AM,BlackBerry and Amazon team up on vehicle data and software platform,0.0,0.855,0.145,0.1779
+90,AMZN,2020-12-01,08:00AM,AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform,0.0,0.585,0.415,0.7783
+91,AMZN,2020-12-01,07:17AM,2 Trends E-Commerce Investors Need to Know About,0.0,1.0,0.0,0.0
+92,AMZN,2020-12-01,05:51AM,3 Top Stocks That'll Make You Richer in December (and Beyond),0.0,0.606,0.394,0.6369
+93,AMZN,2020-12-01,04:12AM,"FAANG Stocks Won't Be Any Less Attractive Even When 'World Goes Back To Normal,' Says Cramer",0.0,0.852,0.148,0.3832
+94,AMZN,2020-12-01,04:07AM,Should Your Bank Deliver Your Groceries and Meals Too?,0.0,1.0,0.0,0.0
+95,AMZN,2020-12-01,03:39AM,Amazon Brings MacOS To AWS  Making App Development For Apple Devices Possible Over Cloud,0.0,0.884,0.116,0.1779
+96,AMZN,2020-12-01,02:40AM,Amazon brings macOS to cloud in a boost to Apple app developers,0.0,0.672,0.328,0.5267
+97,AMZN,2020-12-01,12:10AM,Amazon Unveils Cloud Service to Power Apple App Development,0.0,0.825,0.175,0.1779
+98,AMZN,2020-11-30,11:35PM,AWS Announces Mac Instances for Amazon EC2,0.0,0.779,0.221,0.1779
+99,AMZN,2020-11-30,09:43PM,Cyber Monday scams? Fakespot says it can identify fraudulent reviews and sellers online,0.389,0.611,0.0,-0.7906
+100,TSLA,2020-12-02,10:34AM,"Dow Jones Slides Amid U.K. Vaccine Approval; Tesla Skids, While Chinese EV Stocks Li Auto, Nio, Xpeng Dive",0.0,0.846,0.154,0.4767
+101,TSLA,2020-12-02,10:16AM,"Li Auto, Nio, Xpeng EV Sales Jump As Wall Street Sees Leaders Emerge From The Pack",0.0,1.0,0.0,0.0
+102,TSLA,2020-12-02,10:00AM,Nancy Pfunds New Investment Strategy Involves Forests and Funerals,0.245,0.755,0.0,-0.3818
+103,TSLA,2020-12-02,09:40AM,Tesla 'wont be disruptive' towards S&P 500: Analyst on market volatility,0.0,0.836,0.164,0.2411
+104,TSLA,2020-12-02,09:27AM,"Company News for Dec 2, 2020",0.0,1.0,0.0,0.0
+105,TSLA,2020-12-02,08:54AM,Why Tesla Stock Soared 46.3% in November,0.0,1.0,0.0,0.0
+106,TSLA,2020-12-02,08:08AM,Dow Jones Futures Fall Amid Pfizer Coronavirus Vaccine Approval; Apple Hits New Buy Point,0.0,0.807,0.193,0.4767
+107,TSLA,2020-12-02,08:06AM,Should You Buy Tesla Stock Right Now?,0.0,1.0,0.0,0.0
+108,TSLA,2020-12-02,07:19AM,5 Investing Tips From Peter Lynch,0.0,1.0,0.0,0.0
+109,TSLA,2020-12-02,07:00AM,"Is Tesla Stock A Buy Right Now? Here's What Earnings, Charts Show",0.0,1.0,0.0,0.0
+110,TSLA,2020-12-02,06:00AM,Teslas S&P 500 Entry Takes Away Secret Weapon for Stock Pickers,0.18,0.82,0.0,-0.296
+111,TSLA,2020-12-02,04:55AM,Volkswagen Abandons Motorsports; Unit to Concentrate on EVs Instead,0.223,0.777,0.0,-0.3182
+112,TSLA,2020-12-01,10:05PM,Elon Musk Says Tesla Open To Merger With Legacy Automakers But Won't Attempt Hostile Takeover,0.0,0.865,0.135,0.2924
+113,TSLA,2020-12-01,08:47PM,"Is GM Stock A Buy? General Motors Gains EV Traction, Despite Nikola Slip-Up",0.0,0.821,0.179,0.34
+114,TSLA,2020-12-01,08:00PM,The Real Reason Why Tesla Is Heading Towards A Trillion-Dollar Valuation,0.0,1.0,0.0,0.0
+115,TSLA,2020-12-01,05:42PM,"Tesla Stock Rises On S&P 500 Update, But No Cybertruck Deliveries Before 2022",0.155,0.845,0.0,-0.296
+116,TSLA,2020-12-01,05:15PM,Elon Musk would consider having Tesla acquire a legacy automaker,0.0,1.0,0.0,0.0
+117,TSLA,2020-12-01,04:35PM,Dow Jones Loses Ground Late As McConnell Shoots Down Stimulus Plan; Tesla Gains Again,0.138,0.719,0.144,0.0258
+118,TSLA,2020-12-01,04:28PM,"Musk Urges Tesla Staff to Pinch Pennies, Buoy Surging Shares",0.0,0.804,0.196,0.296
+119,TSLA,2020-12-01,04:16PM,Teslas S&P 500 Entry Puts $70 Billion of Passive Trades in Play,0.0,0.704,0.296,0.4939
+120,TSLA,2020-12-01,04:10PM,"US STOCKS-S&P 500, Nasdaq end at record highs on vaccine optimism",0.0,0.741,0.259,0.5423
+121,TSLA,2020-12-01,04:09PM,Musk Wants Tesla Employees To Pinch Pennies For Profitability,0.0,0.792,0.208,0.2732
+122,TSLA,2020-12-01,03:40PM,Convertible Securities Have Outperformed This Year. A Fund Manager Says Theres Room to Run.,0.0,0.845,0.155,0.296
+123,TSLA,2020-12-01,02:49PM,Elon Musk Wants to Steer Tesla Towards Higher Profits,0.0,0.734,0.266,0.4404
+124,TSLA,2020-12-01,02:40PM,Tesla CEO says he is open to friendly deal with rival carmaker,0.0,0.775,0.225,0.4939
+125,TSLA,2020-12-01,01:23PM,"Elon Musk Urges Tesla Employees in Email to Focus on Profit, Costs",0.0,0.791,0.209,0.4404
+126,TSLA,2020-12-01,01:00PM,Tesla's valuation has gotten 'out of control': Miller Tabak strategist,0.0,1.0,0.0,0.0
+127,TSLA,2020-12-01,12:17PM,Why Tesla Stock Jumped Today,0.0,1.0,0.0,0.0
+128,TSLA,2020-12-01,12:16PM,Tesla Stock Rises On All-At-Once S&P 500 Index Update,0.0,1.0,0.0,0.0
+129,TSLA,2020-12-01,11:54AM,"Dow Jones Rallies 400 Points Amid Vaccine News, As Apple, Tesla Jump; Chinese EV Stocks Nio, Xpeng Tumble",0.0,1.0,0.0,0.0
+130,TSLA,2020-12-01,11:49AM,Tesla CEO says electric cars will double global electricity demand,0.143,0.857,0.0,-0.128
+131,TSLA,2020-12-01,11:38AM,Tesla CEO says electric cars will double global electricity demand,0.143,0.857,0.0,-0.128
+132,TSLA,2020-12-01,11:35AM,"Tesla Software Update 2020.48.5 Brings New Navigation, Texting Features",0.0,1.0,0.0,0.0
+133,TSLA,2020-12-01,11:05AM,Tesla gains as S&P 500 debut to be done all at once,0.0,0.821,0.179,0.34
+134,TSLA,2020-12-01,11:05AM,Ex-Tesla employee agrees to pay $400K over claims he stole trade secrets,0.106,0.758,0.136,0.1027
+135,TSLA,2020-12-01,10:51AM,Markets Await Economic Data,0.0,0.682,0.318,0.1027
+136,TSLA,2020-12-01,10:43AM,Tesla Rallies as Investors Welcome All-at-Once S&P 500 Debut,0.0,0.727,0.273,0.4588
+137,TSLA,2020-12-01,10:29AM,Markets Turn Back On the Spigot,0.0,1.0,0.0,0.0
+138,TSLA,2020-12-01,10:19AM,"Former Tesla employee to pay $400,000 to end lawsuit over tips to reporters",0.231,0.769,0.0,-0.3182
+139,TSLA,2020-12-01,10:04AM,"Former Tesla employee to pay $400,000 to end lawsuit over tips to reporters",0.231,0.769,0.0,-0.3182
+140,TSLA,2020-12-01,09:57AM,"Dow Jones Today, Stocks Rally Into Vaccine News, China Factory Data; Zoom Video, Nikola Dive",0.0,1.0,0.0,0.0
+141,TSLA,2020-12-01,09:52AM,There are other opportunities that can make investors a lot of money with less risk: Strategist on Tesla,0.093,0.773,0.134,0.2006
+142,TSLA,2020-12-01,08:49AM,VW bets on Porsche racecar engineer to help overtake Tesla,0.0,0.769,0.231,0.4019
+143,TSLA,2020-12-01,08:26AM,"Dow Jones Futures Signal Stock Market Rally; Tesla, Moderna Lead Five Big 2020 Winners Moving Early",0.0,0.829,0.171,0.4767
+144,TSLA,2020-12-01,08:20AM,Stocks Kick Off December at All-Time Highs,0.0,1.0,0.0,0.0
+145,TSLA,2020-12-01,08:18AM,Tesla (TSLA) Secures Green Signal for Sale of Model Y in China,0.0,0.813,0.187,0.3182
+146,TSLA,2020-12-01,08:18AM,Dow Futures Rebound Ahead of Fed Chair Powell Testimony; Tesla Jumps on S&P 500 Single-Day Addition Plan,0.0,1.0,0.0,0.0
+147,TSLA,2020-12-01,08:11AM,Here comes the next shoe to drop for Nikola,0.208,0.792,0.0,-0.2732
+148,TSLA,2020-12-01,07:38AM,"Tesla, Salesforce, Slack, Zoom Video, Jerome Powell - 5 Things You Must Know Tuesday",0.0,1.0,0.0,0.0
+149,TSLA,2020-12-01,06:53AM,"Rebalancing Act, Mirror-Like Action, Trading Tesla, Apple, AMD and an Old Fave",0.0,0.791,0.209,0.4404
+150,TSLA,2020-12-01,06:33AM,"Dow Jones Futures: Tesla Rallies On S&P 500 Update; Zoom Falls On Earnings; Apple, AMD Lead Stock Market Rally",0.0,1.0,0.0,0.0
+151,TSLA,2020-12-01,04:37AM,"Tesla Being 'Safest Car On The Planet' Has Something To Do With Elon Musk's Crashing History, Aricomoto CEO Theorizes",0.0,0.87,0.13,0.4019
+152,TSLA,2020-12-01,03:44AM,Volkswagen faces leadership crisis as CEO demands confidence vote,0.285,0.486,0.229,-0.2023
+153,TSLA,2020-12-01,03:41AM,Volkswagen faces leadership crisis as CEO demands vote of confidence,0.266,0.519,0.214,-0.2023
+154,TSLA,2020-12-01,02:13AM,Tesla Supplier LG Chem To Double China Output To Fulfill EV Maker's Growing Hunger For Batteries: Report,0.097,0.68,0.223,0.3818
+155,TSLA,2020-12-01,01:28AM,Ex-Tesla Factory Worker Settles Trade Secrets Lawsuit With EV Maker For $400K,0.147,0.853,0.0,-0.2263
+156,TSLA,2020-12-01,12:27AM,Exclusive: LG Chem to double China battery capacity to meet Tesla demand - sources,0.107,0.786,0.107,0.0
+157,TSLA,2020-11-30,07:01PM,"Jim Cramer: There's No Tesla Other Than, Well Tesla",0.195,0.619,0.186,-0.0258
+158,TSLA,2020-11-30,06:56PM,S&P Dow Jones Indices Announces Implementation of Tesla's Addition to S&P 500,0.0,1.0,0.0,0.0
+159,TSLA,2020-11-30,05:58PM,Tesla to Be Added to S&P 500 in Single Tranche Dec. 21,0.0,1.0,0.0,0.0
+160,TSLA,2020-11-30,05:44PM,Tesla's Stock Will Be Added To S&P 500 All At Once,0.0,1.0,0.0,0.0
+161,TSLA,2020-11-30,05:40PM,Tesla stock to be added all at once to S&P 500,0.0,1.0,0.0,0.0
+162,TSLA,2020-11-30,05:38PM,It's Official: Tesla Model Y Gets Green Light For China Sales,0.0,1.0,0.0,0.0
+163,TSLA,2020-11-30,05:31PM,S&P 500 to swallow Tesla in one gulp; shares surge,0.0,0.804,0.196,0.296
+164,TSLA,2020-11-30,04:53PM,Person Caught Keying Tesla Via By Built-In Security Cameras,0.0,0.769,0.231,0.34
+165,TSLA,2020-11-30,04:24PM,Dow Jones Ends Boom Month On Sour Note; Tesla Reverses As Nikola Plunges,0.0,1.0,0.0,0.0
+166,TSLA,2020-11-30,04:03PM,Nikola Scraps Badger Electric Truck After GM Speeds Up EV Plans,0.0,1.0,0.0,0.0
+167,TSLA,2020-11-30,03:51PM,Top Stocks for December 2020,0.0,0.69,0.31,0.2023
+168,TSLA,2020-11-30,03:31PM,Is Tesla (TSLA) A Good Stock To Buy Now?,0.0,0.707,0.293,0.4404
+169,TSLA,2020-11-30,02:50PM,Why ElectraMeccanica (SOLO) Stock Is Down Today,0.0,1.0,0.0,0.0
+170,TSLA,2020-11-30,01:57PM,Tesla Starts Week With a Gain Ahead of S&P Index Decision,0.0,0.726,0.274,0.5267
+171,TSLA,2020-11-30,01:50PM,"The Zacks Analyst Blog Highlights: Tesla, NVIDIA, Cadence Design Systems, Flex and Keysight",0.0,1.0,0.0,0.0
+172,TSLA,2020-11-30,01:22PM,Tesla Secures China Tax Exemption for Model Y,0.0,0.723,0.277,0.3182
+173,TSLA,2020-11-30,12:26PM,Dow Jones Loses 300 Points But On Track For 11% Monthly Gain; Covid Stocks Rally,0.123,0.695,0.182,0.2732
+174,TSLA,2020-11-30,12:11PM,Tesla Stock: How To Trade A Broken Wing Butterfly,0.307,0.693,0.0,-0.4767
+175,TSLA,2020-11-30,12:09PM,"Dow Jones Tumbles Amid Moderna Coronavirus Vaccine Data; Tesla Reverses From Record High, As Nikola Plunges",0.0,1.0,0.0,0.0
+176,TSLA,2020-11-30,09:57AM,Tesla's Up 256% Since It Appeared On Our Top Ten Names In May: Now Is A Good Time To Hedge It.,0.0,0.793,0.207,0.5719
+177,TSLA,2020-11-30,08:15AM,GM will not take a stake in Nikola,0.0,1.0,0.0,0.0
+178,TSLA,2020-11-30,08:14AM,"Dow Jones Futures: Stock Market Rally Eyes Coronavirus Vaccine News; Why Apple, Nio, Zoom Video Are Key",0.0,1.0,0.0,0.0
+179,TSLA,2020-11-30,07:18AM,"Germany Goes All in On EVs: VWAGY, BAMXF and DDAIF in Focus",0.0,1.0,0.0,0.0
+180,TSLA,2020-11-30,07:12AM,"Auto Stock Roundup: General Motors (GM), Tesla (TSLA) Issue Recalls and More",0.0,1.0,0.0,0.0
+181,TSLA,2020-11-30,06:36AM,Hit the Jackpot With NIO Stock? Don't Let Taxes Get You Down,0.0,1.0,0.0,0.0
+182,TSLA,2020-11-30,06:00AM,Traditional Auto Makers Are Getting Into EVs. Here Are Their Plans to Battle Tesla.,0.167,0.833,0.0,-0.3818
+183,TSLA,2020-11-30,05:51AM,5 Stocks Financial Twitter Won't Shut Up About,0.0,1.0,0.0,0.0
+184,TSLA,2020-11-30,04:34AM,"Tesla Opens 500th Supercharger In China, Xpeng Expands Its Counterpart Service To 20 Cities",0.0,0.903,0.097,0.1027
+185,TSLA,2020-11-30,12:39AM,Tesla Gets China Go-Ahead To Sell Shanghai-Made Model Y EVs,0.0,1.0,0.0,0.0
+186,TSLA,2020-11-30,12:01AM,Tesla Owners Will Be Able To Remotely Access Autopilot Camera At Will With New Upgrade: Report,0.0,1.0,0.0,0.0
+187,TSLA,2020-11-29,11:13PM,China grants Tesla green light to start selling Shanghai-made Model Y SUV,0.0,0.84,0.16,0.2263
+188,TSLA,2020-11-29,04:42PM,Wall Street Braces As Tesla Addition To S&P 500 Could Put $100 Billion Into Play: WSJ,0.0,0.862,0.138,0.34
+189,TSLA,2020-11-29,02:01PM,First Made-In-China Tesla Model 3s Reportedly Begin Arriving In Europe,0.0,1.0,0.0,0.0
+190,TSLA,2020-11-29,01:52PM,40% Of Tesla's Sales In 2022 Could Be In China: Wedbush Securities,0.0,0.833,0.167,0.296
+191,TSLA,2020-11-29,01:47PM,ETFs for the Driverless Car Revolution,0.0,1.0,0.0,0.0
+192,TSLA,2020-11-29,12:23PM,Tesla To Spend $6.4M On New Supercharger Factory In China,0.0,1.0,0.0,0.0
+193,TSLA,2020-11-29,10:00AM,The Only Electric Car Stock Worth Buying,0.0,0.759,0.241,0.2263
+194,TSLA,2020-11-29,07:13AM,Here's What All Investors Should Know About Shorting Stocks,0.0,1.0,0.0,0.0
+195,TSLA,2020-11-29,06:36AM,The 3 Most Dangerous Investing Bubbles Waiting to Burst,0.326,0.674,0.0,-0.5256
+196,TSLA,2020-11-28,10:14PM,Top 11 Lithium and Battery Stocks to Buy Now,0.0,0.816,0.184,0.2023
+197,TSLA,2020-11-28,07:45PM,Stock Market Today: Nasdaq Notches Another High as COVID's Spread Worsens,0.237,0.763,0.0,-0.4767
+198,TSLA,2020-11-28,04:11PM,"Barron's Picks And Pans This Week: Apple, Ford, Royal Dutch Shell, Tesla And A Hair Salon Chain",0.0,1.0,0.0,0.0
+199,TSLA,2020-11-28,03:31PM,One To Watch: Competitor To Tesla's Ultracapacitor Company Raises $48M After Hinting At IPO,0.0,1.0,0.0,0.0
+200,GOOG,2020-12-02,09:53AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+201,GOOG,2020-12-02,09:44AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+202,GOOG,2020-12-02,09:30AM,All the Happiness Money Can Buy in the Winter of Covid-19,0.0,0.735,0.265,0.5574
+203,GOOG,2020-12-02,09:08AM,"Alphabet Ups Self-Driving Game: Should Amazon, Baidu & Others Worry?",0.25,0.603,0.147,-0.296
+204,GOOG,2020-12-02,08:58AM,China and India pose real risk if U.S. tech cant grow: Box CEO,0.149,0.851,0.0,-0.2732
+205,GOOG,2020-12-02,08:23AM,Is Expedia Stock a Buy?,0.0,1.0,0.0,0.0
+206,GOOG,2020-12-02,08:05AM,"Chinese Stocks To Watch: FB, GOOGL Peer Tencent Music Tunes Up New Breakout",0.0,1.0,0.0,0.0
+207,GOOG,2020-12-02,07:00AM,Twitch and TikTok Help Breakthrough Artists to Bypass Big Music,0.0,0.769,0.231,0.4019
+208,GOOG,2020-12-02,07:00AM,A $1B Stock Fund Sees Big Returns by Investing in the Smallest Companies,0.0,1.0,0.0,0.0
+209,GOOG,2020-12-01,10:26PM,Tiger Global-Backed Hospital Software Maker Olive AI Reaches $1.5 Billion Value,0.0,0.714,0.286,0.3818
+210,GOOG,2020-12-01,09:00PM,Hewlett Packard Enterprise to Leave Silicon Valley for Texas,0.13,0.87,0.0,-0.0516
+211,GOOG,2020-12-01,07:27PM,Salesforce to Buy Software Maker Slack for $27.7 Billion,0.0,1.0,0.0,0.0
+212,GOOG,2020-12-01,05:17PM,Salesforces Splashy Slack Deal Isn't Worth the Risk,0.176,0.633,0.191,0.0382
+213,GOOG,2020-12-01,05:00PM,"To Avoid Techs Anti-Trust Troubles, India Tries a Hard 30% Cap",0.485,0.515,0.0,-0.6808
+214,GOOG,2020-12-01,03:50PM,Roku Hires Apples Chief Siri Architect For Software Role,0.0,1.0,0.0,0.0
+215,GOOG,2020-12-01,03:45PM,"No vaccine, no entry? Will bars and restaurants turn away Brits who havent had their COVID shots?",0.241,0.759,0.0,-0.5803
+216,GOOG,2020-12-01,03:16PM,Waymo Deepens Investment In Autonomous Trucking,0.0,1.0,0.0,0.0
+217,GOOG,2020-12-01,03:07PM,Amazon Is Laying the Groundwork for Its Own Quantum Computer,0.0,0.841,0.159,0.1779
+218,GOOG,2020-12-01,02:27PM,Amazon opens macOS development for first time on AWS,0.0,0.825,0.175,0.1779
+219,GOOG,2020-12-01,01:35PM,"Google launches Android Enterprise Essentials, a mobile device management service for small businesses",0.0,1.0,0.0,0.0
+220,GOOG,2020-12-01,01:30PM,YC-backed BuildBuddy raises $3.15M to help developers build software more quickly,0.0,0.787,0.213,0.4019
+221,GOOG,2020-12-01,12:48PM,"Amazon Web Services Bolsters Bet on Local Cloud, Homegrown Chips",0.0,0.841,0.159,0.1779
+222,GOOG,2020-12-01,12:45PM,2 Reasons Amazon Will Keep Taking Ad Sales From Google,0.0,0.825,0.175,0.1779
+223,GOOG,2020-12-01,12:17PM,Online Travel Agencies Have Problems Beyond Covid. One Stock to Buy and One to Sell.,0.162,0.838,0.0,-0.4019
+224,GOOG,2020-12-01,10:57AM,This Software Stock Could Be a Big Winner From a COVID-19 Vaccine,0.0,0.703,0.297,0.5859
+225,GOOG,2020-12-01,10:52AM,Updated Airbnb IPO Filing Sets Pricing Range With $35 Billion Valuation,0.0,1.0,0.0,0.0
+226,GOOG,2020-12-01,10:35AM,"Raven Industries: Small-Cap Agriculture, Balloon Technology Stock Cathie Wood Likes",0.0,0.763,0.237,0.4215
+227,GOOG,2020-12-01,10:22AM,"The Zacks Analyst Blog Highlights: Amazon, Google, Zoom Video, Automatic Data Processing and Moderna",0.0,0.884,0.116,0.1779
+228,GOOG,2020-12-01,10:10AM,CNBCs Jim Cramer says these best in show stocks remain the place for your investment dollars,0.0,0.781,0.219,0.6369
+229,GOOG,2020-12-01,09:22AM,Amazon (AMZN) AWS' Mac Instances Boost Reach to Apple Developers,0.0,0.56,0.44,0.5423
+230,GOOG,2020-12-01,09:18AM,Nasdaq-100 at Cusp of Another Breakout,0.0,1.0,0.0,0.0
+231,GOOG,2020-12-01,08:30AM,How Risky Is Snowflake Stock?,0.31,0.69,0.0,-0.2023
+232,GOOG,2020-12-01,04:12AM,"FAANG Stocks Won't Be Any Less Attractive Even When 'World Goes Back To Normal,' Says Cramer",0.0,0.852,0.148,0.3832
+233,GOOG,2020-11-30,09:55PM,"Facebook, Google, Other Tech Giants To Face Digital Tax Starting 2022, Canada Says",0.0,1.0,0.0,0.0
+234,GOOG,2020-11-30,07:01PM,Jim Cramer: FAANG Still Has Teeth,0.0,1.0,0.0,0.0
+235,GOOG,2020-11-30,06:18PM,Facebook Acquisition Signals Its Desire to Own Customer Service Chats,0.0,0.769,0.231,0.4019
+236,GOOG,2020-11-30,05:25PM,"Market Recap: Monday, November 30th",0.0,1.0,0.0,0.0
+237,GOOG,2020-11-30,04:35PM,"Canada plans digital tax in 2022 on global tech giants such as Facebook, Google",0.0,1.0,0.0,0.0
+238,GOOG,2020-11-30,04:10PM,"'These companies are not people, we should not be protecting them': Galloway on big tech",0.0,1.0,0.0,0.0
+239,GOOG,2020-11-30,03:15PM,"Top Research Reports for Amazon, Alphabet & Zoom Video",0.0,0.632,0.368,0.3612
+240,GOOG,2020-11-30,12:01PM,"CORRECTED-Vietnam steps up online crackdown, jailed activists at record high - Amnesty",0.242,0.758,0.0,-0.4939
+241,GOOG,2020-11-30,11:58AM,Facebook and Google May Face 4 New Antitrust Lawsuits,0.186,0.814,0.0,-0.1531
+242,GOOG,2020-11-30,11:11AM,Microsoft Comes After Zoom With All-Day Free Video Calls,0.0,0.708,0.292,0.5106
+243,GOOG,2020-11-30,10:19AM,"Dow Falls on U.S.-China Jitters, Profit Taking on Value Stocks",0.0,0.602,0.398,0.6486
+244,GOOG,2020-11-30,10:08AM,Here is the 5th Most Popular Stock Among Hedge Funds,0.0,0.744,0.256,0.4754
+245,GOOG,2020-11-30,08:00AM,"What Are FANG Stocks, And Should You Invest In Them?",0.0,1.0,0.0,0.0
+246,GOOG,2020-11-30,06:00AM,Antitrust crackdown on Big Tech could impair U.S. competitiveness,0.0,1.0,0.0,0.0
+247,GOOG,2020-11-30,12:51AM,"Putting Dow 30,000 in Perspective",0.0,1.0,0.0,0.0
+248,GOOG,2020-11-29,04:31PM,How Reddit Makes Money,0.0,1.0,0.0,0.0
+249,GOOG,2020-11-29,10:17AM,"Got $3,000? These 2020 Tech Outperformers Have Catalysts Coming in 2021",0.0,1.0,0.0,0.0
+250,GOOG,2020-11-29,08:45AM,3 Reasons to Sell This Popular Robinhood Stock,0.0,0.682,0.318,0.4215
+251,GOOG,2020-11-29,08:09AM,4 Stocks to Bankroll Your Retirement,0.0,1.0,0.0,0.0
+252,GOOG,2020-11-29,08:00AM,Dont Let Dazzle Brands Deceive You,0.351,0.649,0.0,-0.4019
+253,GOOG,2020-11-28,05:00PM,Apple Suppliers Exodus From China Wont Slow Down Under Biden,0.0,1.0,0.0,0.0
+254,GOOG,2020-11-28,08:29AM,Is 2U Stock a Buy?,0.0,1.0,0.0,0.0
+255,GOOG,2020-11-27,09:46PM,Tech Giants Face a Tough New Regulator in the U.K. Heres Why it Matters.,0.11,0.809,0.081,-0.1027
+256,GOOG,2020-11-27,06:54PM,Hedge Funds Rack Up Big Returns in 2020 With Some Familiar Names,0.0,1.0,0.0,0.0
+257,GOOG,2020-11-27,11:29AM,"MicroStrategy, Simon Property Group, Snap, Alphabet and Facebook as Zacks Bull and Bear of the Day",0.0,1.0,0.0,0.0
+258,GOOG,2020-11-27,10:31AM,"Hot Mutual Fund Loves Facebook, Amazon, Apple, Netflix, Google",0.0,0.565,0.435,0.6597
+259,GOOG,2020-11-27,10:00AM,Is Salesforce Stock A Buy? Will Competition With Microsoft Spur Slack Deal?,0.0,1.0,0.0,0.0
+260,GOOG,2020-11-27,09:17AM,"No Google-Fitbit merger without human rights remedies, says Amnesty to EU",0.18,0.82,0.0,-0.296
+261,GOOG,2020-11-27,08:00AM,Facebooks AI Mistakenly Bans Ads for Struggling Businesses,0.455,0.545,0.0,-0.6124
+262,GOOG,2020-11-27,07:00AM,"These EV Stocks Have Run Too Far, Too Fast",0.0,1.0,0.0,0.0
+263,GOOG,2020-11-27,06:09AM,"Got $3,000? 3 Growth Stocks to Buy That Could Skyrocket",0.0,0.755,0.245,0.3818
+264,GOOG,2020-11-27,01:28AM,UK to impose new rules to limit tech giants' power,0.196,0.804,0.0,-0.296
+265,GOOG,2020-11-27,01:00AM,Jamie Oliver Turns Leftover Mashed Potatoes Into a Brilliant Cheese Pie,0.0,0.703,0.297,0.5859
+266,GOOG,2020-11-26,07:07PM,Britain to curb Google and Facebook with tougher competition rules,0.0,0.841,0.159,0.1779
+267,GOOG,2020-11-26,07:01PM,Google to Face a New Regulator as U.K. Plans Tech-Focused Agency,0.0,1.0,0.0,0.0
+268,GOOG,2020-11-26,07:01PM,Britain to curb Google and Facebook with tougher competition rules,0.0,0.841,0.159,0.1779
+269,GOOG,2020-11-26,07:00PM,Here's Why Electric Vehicle Stocks Have Exploded This Year,0.0,1.0,0.0,0.0
+270,GOOG,2020-11-26,09:10AM,"GDPR enforcement must level up to catch big tech, report warns",0.123,0.877,0.0,-0.1027
+271,GOOG,2020-11-26,07:00AM,10 Stocks to Be Thankful for This Thanksgiving,0.0,0.654,0.346,0.5719
+272,GOOG,2020-11-26,06:45AM,"If You Have $1,000 and 10 Years to Wait, Buy These 2 Stocks Now",0.0,1.0,0.0,0.0
+273,GOOG,2020-11-26,06:00AM,The S&P 500 Could Jump 20% Next Year. Three Strategists Explain Why.,0.0,1.0,0.0,0.0
+274,GOOG,2020-11-26,05:51AM,5 Perfect Stocks to Gobble Up Right Now,0.0,0.619,0.381,0.5719
+275,GOOG,2020-11-26,01:00AM,Forget the Bargain Basement. Bet on the Next Big Thing,0.162,0.684,0.154,-0.0258
+276,GOOG,2020-11-25,05:00PM,Big Oil And Big Tech Are Spending Billions On Renewable Energy,0.0,0.826,0.174,0.2732
+277,GOOG,2020-11-25,02:50PM,"Amazon Cloud Outage Hits Customers Including Roku, Adobe",0.0,0.805,0.195,0.1779
+278,GOOG,2020-11-25,02:30PM,Why Maradona Was Better Than Messi and Ronaldo,0.0,0.707,0.293,0.4404
+279,GOOG,2020-11-25,01:19PM,"Salesforce acquisition of Slack could trigger M&A wave, analyst says",0.0,1.0,0.0,0.0
+280,GOOG,2020-11-25,01:11PM,What will tomorrow's tech look like? Ask someone who can't see,0.0,0.8,0.2,0.3612
+281,GOOG,2020-11-25,12:26PM,Amazon Web Services suffers amid widespread issues with online applications,0.242,0.625,0.133,-0.34
+282,GOOG,2020-11-25,12:00PM,Self-Driving-Car Firm Waymo Sharpens Covid Worker-Safety Rules,0.0,1.0,0.0,0.0
+283,GOOG,2020-11-25,09:49AM,Lookback: Tao Values 2019 Alphabet Inc (GOOG) Thesis,0.0,0.722,0.278,0.4019
+284,GOOG,2020-11-25,09:21AM,HP CEO: COVID-19 pandemic has reinforced our consumer business,0.0,1.0,0.0,0.0
+285,GOOG,2020-11-25,09:13AM,Why Upcoming IPO Roblox Could Become the YouTube of Gaming,0.0,1.0,0.0,0.0
+286,GOOG,2020-11-25,08:39AM,Colin Kaepernick will not play in the NFL again: Emmanuel Acho,0.169,0.831,0.0,-0.2584
+287,GOOG,2020-11-25,08:15AM,France defies U.S. and starts levying digital tax on tech giants. But will this change with a Biden presidency?,0.0,1.0,0.0,0.0
+288,GOOG,2020-11-25,07:30AM,Hedge Funds Are Finally Beating the Market in 2020. Here Are Their Top Holdings.,0.179,0.714,0.107,-0.296
+289,GOOG,2020-11-25,06:33AM,Amazon (AMZN) Cloud Clientele Improves as Zalando Picks AWS,0.0,0.609,0.391,0.5423
+290,GOOG,2020-11-25,06:30AM,Equal-Weighted Indexes Are Winningand Thats a Good Sign for Stocks,0.0,0.734,0.266,0.4404
+291,GOOG,2020-11-25,02:50AM,Google Thinking Of 2023 With Its Gaming Service Stadia As War With Fellow Tech Giants Heats Up,0.196,0.804,0.0,-0.5994
+292,GOOG,2020-11-25,01:30AM,South Korea Unveils AI Chip to Maintain Semiconductor Leadership,0.0,1.0,0.0,0.0
+293,GOOG,2020-11-24,06:09PM,Airbnb Prepares to IPO,0.0,1.0,0.0,0.0
+294,GOOG,2020-11-24,04:58PM,YouTube bans One America News Network from posting new videos for a week,0.0,1.0,0.0,0.0
+295,GOOG,2020-11-24,03:35PM,"YouTube Suspends OAN, a Trump Favorite, For Touting Covid Cure",0.145,0.598,0.256,0.3182
+296,GOOG,2020-11-24,01:14PM,Senators Ask YouTube to Remove Election Misinformation,0.277,0.723,0.0,-0.3182
+297,GOOG,2020-11-24,12:59PM,Google Reportedly Wants to Buy Indian Social Media Firm ShareChat,0.0,1.0,0.0,0.0
+298,GOOG,2020-11-24,11:39AM,Google Back In Buy Zone,0.0,1.0,0.0,0.0
+299,GOOG,2020-11-24,09:52AM,Lookback: Wedgewood Partners 2019 Alphabet Inc (GOOGL) Thesis,0.0,1.0,0.0,0.0
+300,AAPL,2020-12-02,10:34AM,"Dow Jones Slides Amid U.K. Vaccine Approval; Tesla Skids, While Chinese EV Stocks Li Auto, Nio, Xpeng Dive",0.0,0.846,0.154,0.4767
+301,AAPL,2020-12-02,10:26AM,Apple Is Making Big Waves in This Budding 5G Smartphone Market,0.0,1.0,0.0,0.0
+302,AAPL,2020-12-02,10:20AM,Dow Jones Stocks To Buy And Watch In December 2020: Apple Hits New Buy Point,0.0,1.0,0.0,0.0
+303,AAPL,2020-12-02,09:53AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+304,AAPL,2020-12-02,09:44AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+305,AAPL,2020-12-02,09:08AM,"Alphabet Ups Self-Driving Game: Should Amazon, Baidu & Others Worry?",0.25,0.603,0.147,-0.296
+306,AAPL,2020-12-02,08:58AM,China and India pose real risk if U.S. tech cant grow: Box CEO,0.149,0.851,0.0,-0.2732
+307,AAPL,2020-12-02,08:29AM,"If You Like Apple Stock, You Really Need to Check Out Jamf",0.0,0.815,0.185,0.3612
+308,AAPL,2020-12-02,08:08AM,Dow Jones Futures Fall Amid Pfizer Coronavirus Vaccine Approval; Apple Hits New Buy Point,0.0,0.807,0.193,0.4767
+309,AAPL,2020-12-02,07:00AM,Twitch and TikTok Help Breakthrough Artists to Bypass Big Music,0.0,0.769,0.231,0.4019
+310,AAPL,2020-12-02,06:48AM,3 Recession-Ready Stocks to Buy Right Now,0.0,1.0,0.0,0.0
+311,AAPL,2020-12-02,04:49AM,"Apple Names 15 Best iPhone, iPad Apps Of 2020  Helpfulness In Pandemic Takes Center Stage",0.0,0.647,0.353,0.7964
+312,AAPL,2020-12-02,12:01AM,Apple Names Disney Plus the Apple TV App of the Year,0.0,1.0,0.0,0.0
+313,AAPL,2020-12-01,11:15PM,Apple Sued For $200M In EU Over Allegations It Deliberately Slowed Down iPhones To Mask Battery Issues,0.0,1.0,0.0,0.0
+314,AAPL,2020-12-01,09:00PM,Hewlett Packard Enterprise to Leave Silicon Valley for Texas,0.13,0.87,0.0,-0.0516
+315,AAPL,2020-12-01,08:00PM,The Real Reason Why Tesla Is Heading Towards A Trillion-Dollar Valuation,0.0,1.0,0.0,0.0
+316,AAPL,2020-12-01,07:56PM,Apple's MagSafe Duo charger is now available,0.0,1.0,0.0,0.0
+317,AAPL,2020-12-01,07:40PM,What Are the Top U.S. Imports?,0.0,0.735,0.265,0.2023
+318,AAPL,2020-12-01,04:53PM,Stock Market Today: Wall Street Hangs on Stimulus Hopes Again,0.0,0.763,0.237,0.4215
+319,AAPL,2020-12-01,04:35PM,Dow Jones Loses Ground Late As McConnell Shoots Down Stimulus Plan; Tesla Gains Again,0.138,0.719,0.144,0.0258
+320,AAPL,2020-12-01,03:50PM,Roku Hires Apples Chief Siri Architect For Software Role,0.0,1.0,0.0,0.0
+321,AAPL,2020-12-01,03:18PM,"Dow Jones Up 200 Points While Nasdaq Leads Market; Chip Stocks AMD, Teradyne Rise",0.0,1.0,0.0,0.0
+322,AAPL,2020-12-01,03:17PM,"Dow Jones Jumps as Apple Stock Rallies, Salesforce.com Stock Slumps Ahead of Earnings",0.0,1.0,0.0,0.0
+323,AAPL,2020-12-01,02:27PM,Amazon opens macOS development for first time on AWS,0.0,0.825,0.175,0.1779
+324,AAPL,2020-12-01,01:36PM,"Dow Jones Rises 275 Points, Helped By Apple Buy Signal; These 4 Coronavirus Stocks Plunge",0.0,1.0,0.0,0.0
+325,AAPL,2020-12-01,12:50PM,What Next for Apple Stock?,0.0,1.0,0.0,0.0
+326,AAPL,2020-12-01,12:45PM,2 Reasons Amazon Will Keep Taking Ad Sales From Google,0.0,0.825,0.175,0.1779
+327,AAPL,2020-12-01,12:12PM,"Dow Jones Near 30,000 As Apple Stock Leads; Nasdaq, S&P 500 Hit New Highs",0.0,1.0,0.0,0.0
+328,AAPL,2020-12-01,11:54AM,"Dow Jones Rallies 400 Points Amid Vaccine News, As Apple, Tesla Jump; Chinese EV Stocks Nio, Xpeng Tumble",0.0,1.0,0.0,0.0
+329,AAPL,2020-12-01,10:45AM,Heres Why Apple (AAPL) Stock Price Is Set To Outperform in 2021,0.0,1.0,0.0,0.0
+330,AAPL,2020-12-01,10:37AM,"The Zacks Analyst Blog Highlights: Mattel, Sony, Apple, Wayfair and Home Depot",0.0,1.0,0.0,0.0
+331,AAPL,2020-12-01,10:32AM,ROCE Insights For Apple,0.0,1.0,0.0,0.0
+332,AAPL,2020-12-01,10:14AM,"Cyber Monday Shoppers Spent $10.8 Billion, Missing Projection",0.239,0.761,0.0,-0.296
+333,AAPL,2020-12-01,10:10AM,CNBCs Jim Cramer says these best in show stocks remain the place for your investment dollars,0.0,0.781,0.219,0.6369
+334,AAPL,2020-12-01,09:57AM,"Dow Jones Today, Stocks Rally Into Vaccine News, China Factory Data; Zoom Video, Nikola Dive",0.0,1.0,0.0,0.0
+335,AAPL,2020-12-01,09:38AM,Apple (AAPL) Fined Over iPhone Water Resistance Claims,0.0,1.0,0.0,0.0
+336,AAPL,2020-12-01,09:18AM,Nasdaq-100 at Cusp of Another Breakout,0.0,1.0,0.0,0.0
+337,AAPL,2020-12-01,09:17AM,Morning Bell With Jim Cramer: Keep an Eye on Apple Stock,0.0,1.0,0.0,0.0
+338,AAPL,2020-12-01,06:58AM,"Dow Jones Futures: Tesla Rallies On S&P 500 Update; Zoom Falls On Earnings; Apple, AMD Lead Stock Market Rally",0.0,1.0,0.0,0.0
+339,AAPL,2020-12-01,06:53AM,"Rebalancing Act, Mirror-Like Action, Trading Tesla, Apple, AMD and an Old Fave",0.0,0.791,0.209,0.4404
+340,AAPL,2020-12-01,06:33AM,"Dow Jones Futures: Tesla Rallies On S&P 500 Update; Zoom Falls On Earnings; Apple, AMD Lead Stock Market Rally",0.0,1.0,0.0,0.0
+341,AAPL,2020-12-01,04:12AM,"FAANG Stocks Won't Be Any Less Attractive Even When 'World Goes Back To Normal,' Says Cramer",0.0,0.852,0.148,0.3832
+342,AAPL,2020-12-01,03:39AM,Amazon Brings MacOS To AWS  Making App Development For Apple Devices Possible Over Cloud,0.0,0.884,0.116,0.1779
+343,AAPL,2020-12-01,02:40AM,Amazon brings macOS to cloud in a boost to Apple app developers,0.0,0.672,0.328,0.5267
+344,AAPL,2020-12-01,12:10AM,Amazon Unveils Cloud Service to Power Apple App Development,0.0,0.825,0.175,0.1779
+345,AAPL,2020-11-30,11:51PM,Apple Ropes In Former Robinhood Executive For App Discovery Role,0.0,1.0,0.0,0.0
+346,AAPL,2020-11-30,11:40PM,AWS brings the Mac mini to its cloud,0.0,1.0,0.0,0.0
+347,AAPL,2020-11-30,07:20PM,Faith in FAANG: Cramer's 'Mad Money' Recap (Monday 11/30/20),0.246,0.538,0.215,-0.1027
+348,AAPL,2020-11-30,05:50PM,A tween tries Apple's new 'Family Setup' system for Apple Watch,0.0,1.0,0.0,0.0
+349,AAPL,2020-11-30,04:30PM,"Apple, TSM Named Top Stock Picks To Play 5G Wireless Growth Trend",0.0,0.57,0.43,0.7003
+350,AAPL,2020-11-30,04:24PM,Dow Jones Ends Boom Month On Sour Note; Tesla Reverses As Nikola Plunges,0.0,1.0,0.0,0.0
+351,AAPL,2020-11-30,04:10PM,"'These companies are not people, we should not be protecting them': Galloway on big tech",0.0,1.0,0.0,0.0
+352,AAPL,2020-11-30,03:49PM,"Apple Stock, Snowflake, MSFT, PayPal Among Best Stocks To Watch",0.0,0.682,0.318,0.6369
+353,AAPL,2020-11-30,02:35PM,Apple Analyst: iPhone Manufacturer Warrants Premium To The S&P 500,0.0,1.0,0.0,0.0
+354,AAPL,2020-11-30,02:00PM,Apple Hires Prominent Venture Capitalist for App Store Role,0.0,0.777,0.223,0.3182
+355,AAPL,2020-11-30,01:29PM,Apple Requests Foxconn Shift Some Production From China to Vietnam,0.0,1.0,0.0,0.0
+356,AAPL,2020-11-30,01:15PM,Dow Jones Loses 300 Points But On Track For 11% Monthly Gain; Covid Stocks Rally,0.123,0.695,0.182,0.2732
+357,AAPL,2020-11-30,12:30PM,"Zacks Value Trader Highlights: Southwest, JPMorgan, Wells Fargo, Apple and AbbVie",0.0,0.672,0.328,0.5267
+358,AAPL,2020-11-30,12:17PM,Morgan Stanleys List of 10 Ways to Bet on 5G Starts With Apple,0.0,1.0,0.0,0.0
+359,AAPL,2020-11-30,12:09PM,"Dow Jones Tumbles Amid Moderna Coronavirus Vaccine Data; Tesla Reverses From Record High, As Nikola Plunges",0.0,1.0,0.0,0.0
+360,AAPL,2020-11-30,11:58AM,Facebook and Google May Face 4 New Antitrust Lawsuits,0.186,0.814,0.0,-0.1531
+361,AAPL,2020-11-30,11:06AM,"Dow Jones Tumbles as Apple Stock Rises on Price Target Bump, Salesforce Stock Slumps on Expected Slack Acquisition",0.0,1.0,0.0,0.0
+362,AAPL,2020-11-30,09:31AM,"Company News for Nov 30, 2020",0.0,1.0,0.0,0.0
+363,AAPL,2020-11-30,08:55AM,Apple Upgraded to Buy at Loop Capital on Sales Forecast,0.0,1.0,0.0,0.0
+364,AAPL,2020-11-30,08:34AM,5 Stocks to Win on Record Cyber Weekend Shopping,0.0,0.648,0.352,0.5859
+365,AAPL,2020-11-30,08:14AM,"Dow Jones Futures: Stock Market Rally Eyes Coronavirus Vaccine News; Why Apple, Nio, Zoom Video Are Key",0.0,1.0,0.0,0.0
+366,AAPL,2020-11-30,08:13AM,Selling Covered Calls vs. Shorting a Stock,0.0,1.0,0.0,0.0
+367,AAPL,2020-11-30,08:00AM,"What Are FANG Stocks, And Should You Invest In Them?",0.0,1.0,0.0,0.0
+368,AAPL,2020-11-30,07:21AM,"Amazon, Apple stay away from new French initiative to set principles for Big Tech",0.0,0.884,0.116,0.1779
+369,AAPL,2020-11-30,07:12AM,"Apple on the hook for 10M in Italy, accused of misleading users about iPhone water resistance",0.259,0.741,0.0,-0.5994
+370,AAPL,2020-11-30,07:05AM,"Amazon, Apple stay away from new French initiative to set principles for Big Tech",0.0,0.884,0.116,0.1779
+371,AAPL,2020-11-30,06:39AM,"Apple, Alibaba, Tesla, Intel, GM  How South Korea Sovereign Wealth Fund Played US Stocks In Q3",0.0,0.714,0.286,0.6808
+372,AAPL,2020-11-30,06:23AM,Why the Dow has been going up for 124 years: Morning Brief,0.0,1.0,0.0,0.0
+373,AAPL,2020-11-30,06:20AM,Apple Trailed Xiaomi In Q3 Sales With 40.6M Units: Gartner,0.0,1.0,0.0,0.0
+374,AAPL,2020-11-30,06:00AM,Antitrust crackdown on Big Tech could impair U.S. competitiveness,0.0,1.0,0.0,0.0
+375,AAPL,2020-11-29,11:20PM,Apple Says Second Retail Outlet In South Korea Coming Soon,0.0,1.0,0.0,0.0
+376,AAPL,2020-11-29,04:31PM,How Reddit Makes Money,0.0,1.0,0.0,0.0
+377,AAPL,2020-11-29,08:45AM,3 Reasons to Sell This Popular Robinhood Stock,0.0,0.682,0.318,0.4215
+378,AAPL,2020-11-29,08:00AM,Dont Let Dazzle Brands Deceive You,0.351,0.649,0.0,-0.4019
+379,AAPL,2020-11-29,07:00AM,"A Giant Fund Sold Alibaba, Apple, and Intel Stock. Heres What It Bought.",0.0,1.0,0.0,0.0
+380,AAPL,2020-11-28,05:00PM,Apple Suppliers Exodus From China Wont Slow Down Under Biden,0.0,1.0,0.0,0.0
+381,AAPL,2020-11-28,04:11PM,"Barron's Picks And Pans This Week: Apple, Ford, Royal Dutch Shell, Tesla And A Hair Salon Chain",0.0,1.0,0.0,0.0
+382,AAPL,2020-11-28,07:47AM,Should Amazon Start Paying a Dividend?,0.0,0.702,0.298,0.1779
+383,AAPL,2020-11-27,05:31PM,Apples New MacBooks Have Delighted Critics. Why Investors Should Care Too.,0.132,0.479,0.389,0.6486
+384,AAPL,2020-11-27,05:25PM,Tesla Storms the S&P 500. Heres the Bull Case.,0.0,1.0,0.0,0.0
+385,AAPL,2020-11-27,03:18PM,Margrethe Vestager Could Be the Most Powerful Woman in Tech. Heres What Shes Planning Next.,0.0,0.819,0.181,0.4754
+386,AAPL,2020-11-27,12:06PM,"Dow Jones Rallies Near Record Highs, As Tesla Races To More All-Time Highs; Snowflake Surges Past Buy Zone",0.0,1.0,0.0,0.0
+387,AAPL,2020-11-27,11:54AM,"Dow Jones Barely Higher as Disney Ramps Up Layoffs, Apple Moves Some Production Out of China",0.0,1.0,0.0,0.0
+388,AAPL,2020-11-27,10:31AM,"Hot Mutual Fund Loves Facebook, Amazon, Apple, Netflix, Google",0.0,0.565,0.435,0.6597
+389,AAPL,2020-11-27,08:00AM,Here's One Way To Buy Apple Stock Ahead Of A Potential Breakout,0.0,1.0,0.0,0.0
+390,AAPL,2020-11-27,07:30AM,Is Apple Stock A Buy Right Now? Here's What Its Stock Chart Shows,0.0,1.0,0.0,0.0
+391,AAPL,2020-11-27,06:30AM,Intel Stock May Have Hit Rock Bottom. How to Position for a Rally.,0.0,1.0,0.0,0.0
+392,AAPL,2020-11-27,02:30AM,Electric Carmakers Are in a Stock Market Bubble,0.0,1.0,0.0,0.0
+393,AAPL,2020-11-26,07:00PM,Here's Why Electric Vehicle Stocks Have Exploded This Year,0.0,1.0,0.0,0.0
+394,AAPL,2020-11-26,11:10AM,Foxconn could move some iPad and MacBook production to Vietnam,0.0,1.0,0.0,0.0
+395,AAPL,2020-11-26,07:06AM,Foxconn to Move Some Production of iPads and MacBooks to Vietnam,0.0,1.0,0.0,0.0
+396,AAPL,2020-11-26,07:00AM,10 Stocks to Be Thankful for This Thanksgiving,0.0,0.654,0.346,0.5719
+397,AAPL,2020-11-26,06:00AM,The S&P 500 Could Jump 20% Next Year. Three Strategists Explain Why.,0.0,1.0,0.0,0.0
+398,AAPL,2020-11-26,04:48AM,Exclusive: Foxconn to shift some Apple production to Vietnam to minimise China risk,0.144,0.753,0.103,-0.1531
+399,AAPL,2020-11-25,08:13PM,"'Queen's Gambit', 'Mandalorian' and 'Undoing' top list of Thanksgiving must-binge TV",0.0,0.847,0.153,0.2023
+400,MSFT,2020-12-02,09:59AM,Microsoft (MSFT) to Boost CNH Industrial's Digital Capabilities,0.0,0.722,0.278,0.4019
+401,MSFT,2020-12-02,09:43AM,"Yes, Salesforce is Buying Slack, but They Also Reported a Very Nice Quarter",0.0,0.625,0.375,0.7175
+402,MSFT,2020-12-02,09:13AM,This ETF Could Help Grow Your Retirement Account,0.0,0.722,0.278,0.4019
+403,MSFT,2020-12-02,08:58AM,China and India pose real risk if U.S. tech cant grow: Box CEO,0.149,0.851,0.0,-0.2732
+404,MSFT,2020-12-02,08:49AM,Are Microsoft And Adobe Coming For Salesforce's Market Share?,0.0,0.784,0.216,0.296
+405,MSFT,2020-12-02,07:35AM,"North Korea-linked hackers targeted J&J, Novavax in hunt for COVID research",0.0,1.0,0.0,0.0
+406,MSFT,2020-12-02,07:15AM,Is Nintendo Stock a Buy?,0.0,1.0,0.0,0.0
+407,MSFT,2020-12-02,01:42AM,"Biden on China, Salesforce Grabs Slack, Stocks Pause - What's up in Markets",0.0,1.0,0.0,0.0
+408,MSFT,2020-12-02,12:01AM,Salesforces Benioff Escalates Microsoft Rivalry With Slack Deal,0.0,1.0,0.0,0.0
+409,MSFT,2020-12-01,10:15PM,Slack sold to business software giant for $27.7bn,0.0,1.0,0.0,0.0
+410,MSFT,2020-12-01,08:00PM,The Real Reason Why Tesla Is Heading Towards A Trillion-Dollar Valuation,0.0,1.0,0.0,0.0
+411,MSFT,2020-12-01,07:27PM,Salesforce to Buy Software Maker Slack for $27.7 Billion,0.0,1.0,0.0,0.0
+412,MSFT,2020-12-01,07:05PM,How the Coronavirus Is Impacting the Retail Landscape,0.0,1.0,0.0,0.0
+413,MSFT,2020-12-01,06:34PM,"Salesforce Building the ""Operating System for the Future of Work"" With $27.7 Billion Slack Offer",0.0,1.0,0.0,0.0
+414,MSFT,2020-12-01,05:17PM,Salesforces Splashy Slack Deal Isn't Worth the Risk,0.176,0.633,0.191,0.0382
+415,MSFT,2020-12-01,04:33PM,Why Salesforce buying Slack for $27.7 billion isn't a shock,0.0,0.786,0.214,0.2924
+416,MSFT,2020-12-01,03:17PM,"Dow Jones Jumps as Apple Stock Rallies, Salesforce.com Stock Slumps Ahead of Earnings",0.0,1.0,0.0,0.0
+417,MSFT,2020-12-01,02:27PM,Amazon opens macOS development for first time on AWS,0.0,0.825,0.175,0.1779
+418,MSFT,2020-12-01,01:23PM,"Top Analyst Reports for Microsoft, Procter & Gamble & T-Mobile",0.0,0.795,0.205,0.2023
+419,MSFT,2020-12-01,12:48PM,"Amazon Web Services Bolsters Bet on Local Cloud, Homegrown Chips",0.0,0.841,0.159,0.1779
+420,MSFT,2020-12-01,12:32PM,AWS goes after Microsoft's SQL Server with Babelfish for Aurora PostgreSQL,0.0,1.0,0.0,0.0
+421,MSFT,2020-12-01,12:00PM,The Key Metric Nutanix Investors Should Watch,0.0,1.0,0.0,0.0
+422,MSFT,2020-12-01,10:57AM,This Software Stock Could Be a Big Winner From a COVID-19 Vaccine,0.0,0.703,0.297,0.5859
+423,MSFT,2020-12-01,09:58AM,Don't Sweat NVIDIA's Data Center Doubts,0.306,0.694,0.0,-0.296
+424,MSFT,2020-12-01,09:00AM,Baozun Stock Is Still a Top E-Commerce Bet in Mainland China,0.0,0.833,0.167,0.2023
+425,MSFT,2020-12-01,08:36AM,Will Alibaba's Cloud Business Ever Generate a Profit?,0.0,0.674,0.326,0.4404
+426,MSFT,2020-12-01,08:30AM,How Risky Is Snowflake Stock?,0.31,0.69,0.0,-0.2023
+427,MSFT,2020-12-01,08:26AM,"Dow Climbs on Renewed Stimulus Hopes, Vaccine News",0.0,0.714,0.286,0.4215
+428,MSFT,2020-12-01,08:21AM,CNH Industrial (CNHI) Ties Up With Tech Giants for Digital Revamp,0.0,1.0,0.0,0.0
+429,MSFT,2020-12-01,08:15AM,JFrog's Recent Stock Decline Is Just Short-Term Noise,0.0,1.0,0.0,0.0
+430,MSFT,2020-12-01,08:00AM,Microsoft Is One Of 6 Stocks That Thrive In December,0.0,1.0,0.0,0.0
+431,MSFT,2020-12-01,07:27AM,Why Is GameStop Selling TVs Now?,0.0,1.0,0.0,0.0
+432,MSFT,2020-12-01,07:09AM,Better Buy: Activision Blizzard vs. Take-Two Interactive,0.0,0.674,0.326,0.4404
+433,MSFT,2020-12-01,05:29AM,"CNH Industrial, Accenture and Microsoft Collaborate to Develop Connected Industrial Vehicles",0.0,1.0,0.0,0.0
+434,MSFT,2020-11-30,05:25PM,"Market Recap: Monday, November 30th",0.0,1.0,0.0,0.0
+435,MSFT,2020-11-30,04:38PM,Slack Stock Gains As Street Wonders How Salesforce Will Pay For It,0.101,0.725,0.174,0.25
+436,MSFT,2020-11-30,04:10PM,"'These companies are not people, we should not be protecting them': Galloway on big tech",0.0,1.0,0.0,0.0
+437,MSFT,2020-11-30,03:49PM,"Apple Stock, Snowflake, MSFT, PayPal Among Best Stocks To Watch",0.0,0.682,0.318,0.6369
+438,MSFT,2020-11-30,02:00PM,Tony Hsieh Showed Promise and Perils of Happiness,0.0,0.504,0.496,0.7096
+439,MSFT,2020-11-30,01:34PM,"The Zacks Analyst Blog Highlights: Target, Microsoft and TSM",0.0,1.0,0.0,0.0
+440,MSFT,2020-11-30,01:14PM,"West Des Moines (City of) IA -- Moody's assigns Aaa to West Des Moines, IA's GO bonds; outlook stable",0.0,0.891,0.109,0.296
+441,MSFT,2020-11-30,12:41PM,PreMarket Prep Stock Of The Day: GameStop,0.0,1.0,0.0,0.0
+442,MSFT,2020-11-30,12:34PM,These 2 Big Deals Weren't Enough to Save the Stock Market Monday,0.208,0.792,0.0,-0.3875
+443,MSFT,2020-11-30,12:18PM,"Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",0.0,1.0,0.0,0.0
+444,MSFT,2020-11-30,12:08PM,Why Slack Stock Jumped Again Today,0.0,1.0,0.0,0.0
+445,MSFT,2020-11-30,11:11AM,Microsoft Comes After Zoom With All-Day Free Video Calls,0.0,0.708,0.292,0.5106
+446,MSFT,2020-11-30,11:06AM,"Dow Jones Tumbles as Apple Stock Rises on Price Target Bump, Salesforce Stock Slumps on Expected Slack Acquisition",0.0,1.0,0.0,0.0
+447,MSFT,2020-11-30,09:50AM,Is Datadog Stock a Buy?,0.0,1.0,0.0,0.0
+448,MSFT,2020-11-30,08:15AM,"Video Game Stocks To Buy And Watch, Including Esports Stocks",0.0,1.0,0.0,0.0
+449,MSFT,2020-11-30,07:11AM,"CNH Industrial to work with Microsoft, Accenture on 'smart' vehicles",0.0,1.0,0.0,0.0
+450,MSFT,2020-11-30,07:00AM,"Is Oracle Stock A Buy Right Now? Here's What Earnings, Charts Show",0.0,1.0,0.0,0.0
+451,MSFT,2020-11-30,06:06AM,These 3 Dow Stocks Are Screaming Buys,0.342,0.658,0.0,-0.3818
+452,MSFT,2020-11-30,02:35AM,How Many Microsoft Corporation (NASDAQ:MSFT) Shares Do Institutions Own?,0.0,0.784,0.216,0.296
+453,MSFT,2020-11-29,03:00PM,"Zoom, Salesforce, Kroger, Snowflake, and Other Stocks for Investors to Watch This Week",0.0,1.0,0.0,0.0
+454,MSFT,2020-11-29,09:24AM,The Big Question Nutanix Must Answer,0.0,1.0,0.0,0.0
+455,MSFT,2020-11-29,08:09AM,4 Stocks to Bankroll Your Retirement,0.0,1.0,0.0,0.0
+456,MSFT,2020-11-28,05:30PM,The Only Way to Invest In the Next Transformational Technology,0.0,1.0,0.0,0.0
+457,MSFT,2020-11-28,10:09AM,3 Gaming Stocks Worth a Look,0.0,0.612,0.388,0.2263
+458,MSFT,2020-11-28,07:47AM,Should Amazon Start Paying a Dividend?,0.0,0.702,0.298,0.1779
+459,MSFT,2020-11-28,07:07AM,"Just in Time for Christmas, Roblox Files to IPO",0.0,1.0,0.0,0.0
+460,MSFT,2020-11-27,06:04PM,Big Names Line Up for IPOs as 2020 Draws to a Close,0.0,1.0,0.0,0.0
+461,MSFT,2020-11-27,05:25PM,Tesla Storms the S&P 500. Heres the Bull Case.,0.0,1.0,0.0,0.0
+462,MSFT,2020-11-27,03:01PM,Edge Computing Is Leading The Next Great Tech Revolution,0.0,0.661,0.339,0.6249
+463,MSFT,2020-11-27,01:12PM,What Wall Street Thinks of a Potential Salesforce Deal for Slack,0.0,1.0,0.0,0.0
+464,MSFT,2020-11-27,12:26PM,Why GameStop Stock Is Rising Today,0.0,1.0,0.0,0.0
+465,MSFT,2020-11-27,12:17PM,"Sony (SNE) Bets Big on PS5 in Holiday Season, Rivals Fret",0.0,0.787,0.213,0.4019
+466,MSFT,2020-11-27,11:42AM,Tesla Surpasses Berkshire Hathaway in Market Value,0.0,0.714,0.286,0.34
+467,MSFT,2020-11-27,11:29AM,Consumers under 35 are defining whats hot and whats not: StockX CEO,0.0,1.0,0.0,0.0
+468,MSFT,2020-11-27,10:37AM,EV battery developer QuantumScape begins trading on NYSE,0.0,1.0,0.0,0.0
+469,MSFT,2020-11-27,10:00AM,Is Salesforce Stock A Buy? Will Competition With Microsoft Spur Slack Deal?,0.0,1.0,0.0,0.0
+470,MSFT,2020-11-27,09:00AM,Coronavirus Stock Investing: 4 Industry Transformations That Are Just Getting Started,0.0,1.0,0.0,0.0
+471,MSFT,2020-11-27,08:30AM,Videogame Sales Getting a Boost From Coronavirus: 4 Winners,0.0,0.463,0.537,0.7003
+472,MSFT,2020-11-27,08:00AM,Here's One Way To Buy Apple Stock Ahead Of A Potential Breakout,0.0,1.0,0.0,0.0
+473,MSFT,2020-11-27,08:00AM,Top Stock Trading Rules: The Eight-Week Hold Rule And Its Wrinkles,0.0,0.847,0.153,0.2023
+474,MSFT,2020-11-27,08:00AM,Bill Gates Says Half of Business Travel Will Never Return. Is He Right?,0.0,1.0,0.0,0.0
+475,MSFT,2020-11-27,07:00AM,Is Microsoft Stock A Buy Right Now? Here's What IBD Charts Show,0.0,1.0,0.0,0.0
+476,MSFT,2020-11-27,06:09AM,"Got $3,000? 3 Growth Stocks to Buy That Could Skyrocket",0.0,0.755,0.245,0.3818
+477,MSFT,2020-11-26,07:00PM,Here's Why Electric Vehicle Stocks Have Exploded This Year,0.0,1.0,0.0,0.0
+478,MSFT,2020-11-26,10:05AM,Let Salesforce Billionaire Benioff Land His Trendy Tech Whale,0.0,1.0,0.0,0.0
+479,MSFT,2020-11-26,07:10AM,Twilio's Secret Growth Advantage: Its Own Customers,0.0,0.521,0.479,0.5574
+480,MSFT,2020-11-26,07:01AM,3 Index Funds Perfect for Your IRA,0.0,0.575,0.425,0.5719
+481,MSFT,2020-11-26,07:00AM,10 Stocks to Be Thankful for This Thanksgiving,0.0,0.654,0.346,0.5719
+482,MSFT,2020-11-26,06:00AM,The S&P 500 Could Jump 20% Next Year. Three Strategists Explain Why.,0.0,1.0,0.0,0.0
+483,MSFT,2020-11-25,10:19PM,Nintendo Adds Sharp as Assembler of Popular Switch Console,0.0,0.741,0.259,0.4215
+484,MSFT,2020-11-25,07:11PM,5 Thoughts on Salesforce's Reported Interest in Acquiring Slack,0.0,0.7,0.3,0.4588
+485,MSFT,2020-11-25,06:09PM,These 2 IPO Stocks Are Crushing the Stock Market on Wednesday,0.217,0.783,0.0,-0.3612
+486,MSFT,2020-11-25,05:52PM,3 Blue Chip Stocks to Buy Heading into 2021,0.0,1.0,0.0,0.0
+487,MSFT,2020-11-25,04:58PM,"Dow Jones Futures: Nasdaq Hits High As AMD, Shopify, PayPal Signal Buys, But Watch Out For This",0.0,1.0,0.0,0.0
+488,MSFT,2020-11-25,04:25PM,Slack Stock Soars On Salesforce Merger Talks As Microsoft Looms,0.151,0.849,0.0,-0.1531
+489,MSFT,2020-11-25,03:28PM,Salesforce Is Said to Explore Acquisition of Slack,0.0,1.0,0.0,0.0
+490,MSFT,2020-11-25,02:50PM,"Amazon Cloud Outage Hits Customers Including Roku, Adobe",0.0,0.805,0.195,0.1779
+491,MSFT,2020-11-25,01:55PM,Slack Shares Soar on Report of Salesforce Deal Talks. An M&A Wave Awaits Software.,0.0,0.774,0.226,0.3612
+492,MSFT,2020-11-25,01:19PM,"Salesforce acquisition of Slack could trigger M&A wave, analyst says",0.0,1.0,0.0,0.0
+493,MSFT,2020-11-25,01:14PM,"Dow Jones Sinks Below 30,000; IBM to Cut Jobs; Salesforce Could Buy Slack",0.149,0.851,0.0,-0.2732
+494,MSFT,2020-11-25,12:26PM,Amazon Web Services suffers amid widespread issues with online applications,0.242,0.625,0.133,-0.34
+495,MSFT,2020-11-25,11:34AM,How much people are expected to spend this Cyber Monday,0.0,1.0,0.0,0.0
+496,MSFT,2020-11-25,11:30AM,2 Reasons Why It Isn't Too Late to Buy This Growth Stock,0.0,0.794,0.206,0.3818
+497,MSFT,2020-11-25,10:45AM,Better Buy: Alibaba vs. Amazon,0.0,0.395,0.605,0.5574
+498,MSFT,2020-11-25,10:10AM,"Dow Tops 30,000: 5 Stocks Driving the ETF",0.0,0.645,0.355,0.5106
+499,MSFT,2020-11-25,10:02AM,"Dow Jones Today Dips, Nasdaq Climbs As Jobless Claims Jump; Nikola Worries, China Investigation Hammers E-Auto Stocks",0.149,0.851,0.0,-0.4215
+500,FB,2020-12-02,09:53AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+501,FB,2020-12-02,09:44AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+502,FB,2020-12-02,09:30AM,All the Happiness Money Can Buy in the Winter of Covid-19,0.0,0.735,0.265,0.5574
+503,FB,2020-12-02,09:30AM,Better Buy: Facebook vs. Snap,0.0,0.58,0.42,0.4404
+504,FB,2020-12-02,08:58AM,China and India pose real risk if U.S. tech cant grow: Box CEO,0.149,0.851,0.0,-0.2732
+505,FB,2020-12-02,08:22AM,3 Reasons I Just Bought Pinterest Stock,0.0,1.0,0.0,0.0
+506,FB,2020-12-02,08:05AM,"Chinese Stocks To Watch: FB, GOOGL Peer Tencent Music Tunes Up New Breakout",0.0,1.0,0.0,0.0
+507,FB,2020-12-02,07:45AM,Better Buy: Amazon vs. Facebook,0.0,0.395,0.605,0.5574
+508,FB,2020-12-02,07:16AM,Trump Claims Hell Veto Defense Spending Bill Unless Congress Repeals Legal Shield for Social Media Companies,0.223,0.631,0.146,-0.5574
+509,FB,2020-12-02,07:08AM,"UK Okays Vaccine, Stimulus Stalls, Facebook's Digital Currency, Micron Guidance",0.0,0.744,0.256,0.4767
+510,FB,2020-12-02,03:00AM,A New Strategy for Israels Arabs: Aiding Netanyahu,0.0,1.0,0.0,0.0
+511,FB,2020-12-02,01:32AM,SoftBank Is Winding Down Options Bets After Investor Fallout,0.0,1.0,0.0,0.0
+512,FB,2020-12-01,11:01PM,Trump Threatens to Veto Defense Bill Over Big Tech Legal Shield,0.191,0.588,0.221,-0.1531
+513,FB,2020-12-01,09:00PM,Hewlett Packard Enterprise to Leave Silicon Valley for Texas,0.13,0.87,0.0,-0.0516
+514,FB,2020-12-01,05:00PM,"To Avoid Techs Anti-Trust Troubles, India Tries a Hard 30% Cap",0.485,0.515,0.0,-0.6808
+515,FB,2020-12-01,01:36PM,"Dow Jones Rises 275 Points, Helped By Apple Buy Signal; These 4 Coronavirus Stocks Plunge",0.0,1.0,0.0,0.0
+516,FB,2020-12-01,12:59PM,Facebook-Backed Libra Association Changes Its Name to Diem,0.0,1.0,0.0,0.0
+517,FB,2020-12-01,12:21PM,The Libra Cryptocurrency Rebrands As 'Diem',0.0,1.0,0.0,0.0
+518,FB,2020-12-01,10:21AM,"Facebook's self-styled 'oversight' board selects first cases, most dealing with hate speech",0.265,0.735,0.0,-0.6077
+519,FB,2020-12-01,10:10AM,CNBCs Jim Cramer says these best in show stocks remain the place for your investment dollars,0.0,0.781,0.219,0.6369
+520,FB,2020-12-01,10:08AM,Facebook Content Review Board Chooses First Six Cases for Review,0.0,1.0,0.0,0.0
+521,FB,2020-12-01,09:49AM,Facebook-backed Libra Association rebrands as Diem,0.0,1.0,0.0,0.0
+522,FB,2020-12-01,09:18AM,Nasdaq-100 at Cusp of Another Breakout,0.0,1.0,0.0,0.0
+523,FB,2020-12-01,09:03AM,Facebook-backed digital coin Libra renamed Diem in quest for approval,0.0,0.744,0.256,0.4767
+524,FB,2020-12-01,09:00AM,Facebook-backed digital coin Libra renamed Diem in quest for approval,0.0,0.744,0.256,0.4767
+525,FB,2020-12-01,08:11AM,"From hate speech to nudity, Facebook's oversight board picks its first cases",0.252,0.748,0.0,-0.5719
+526,FB,2020-12-01,08:00AM,"From hate speech to nudity, Facebook's oversight board picks its first cases",0.252,0.748,0.0,-0.5719
+527,FB,2020-12-01,04:12AM,"FAANG Stocks Won't Be Any Less Attractive Even When 'World Goes Back To Normal,' Says Cramer",0.0,0.852,0.148,0.3832
+528,FB,2020-12-01,12:46AM,"Facebook To Launch News Service In UK In January, With Major Outlets Onboard",0.0,1.0,0.0,0.0
+529,FB,2020-11-30,09:55PM,"Facebook, Google, Other Tech Giants To Face Digital Tax Starting 2022, Canada Says",0.0,1.0,0.0,0.0
+530,FB,2020-11-30,09:23PM,Facebook Agrees To Acquire $1B Startup Kustomer To Improve Services For Businesses,0.0,0.68,0.32,0.5719
+531,FB,2020-11-30,07:01PM,Jim Cramer: FAANG Still Has Teeth,0.0,1.0,0.0,0.0
+532,FB,2020-11-30,06:47PM,Facebook Buys Customer-Service Software Maker Kustomer,0.0,1.0,0.0,0.0
+533,FB,2020-11-30,06:18PM,Facebook Acquisition Signals Its Desire to Own Customer Service Chats,0.0,0.769,0.231,0.4019
+534,FB,2020-11-30,05:53PM,Facebook Acquires Kustomer,0.0,1.0,0.0,0.0
+535,FB,2020-11-30,04:10PM,"'These companies are not people, we should not be protecting them': Galloway on big tech",0.0,1.0,0.0,0.0
+536,FB,2020-11-30,03:02PM,Facebook to Acquire Kustomer in $1 Billion Deal,0.0,1.0,0.0,0.0
+537,FB,2020-11-30,12:46PM,Facebook buys Kustomer for $1B to expand into customer service tools,0.0,0.813,0.187,0.3182
+538,FB,2020-11-30,12:17PM,Facebook Nears $1B Purchase of Chatbot Company Kustomer,0.0,1.0,0.0,0.0
+539,FB,2020-11-30,12:03PM,2 Stocks I'd Hold Forever,0.0,1.0,0.0,0.0
+540,FB,2020-11-30,12:01PM,"CORRECTED-Vietnam steps up online crackdown, jailed activists at record high - Amnesty",0.242,0.758,0.0,-0.4939
+541,FB,2020-11-30,11:58AM,Facebook and Google May Face 4 New Antitrust Lawsuits,0.186,0.814,0.0,-0.1531
+542,FB,2020-11-30,11:02AM,Facebook to buy customer service startup Kustomer,0.0,1.0,0.0,0.0
+543,FB,2020-11-30,10:08AM,Here is the 5th Most Popular Stock Among Hedge Funds,0.0,0.744,0.256,0.4754
+544,FB,2020-11-30,06:00AM,Antitrust crackdown on Big Tech could impair U.S. competitiveness,0.0,1.0,0.0,0.0
+545,FB,2020-11-30,03:07AM,"Facebook Joins Amazon, Disney In India's Hot Cricket Streaming Market",0.0,0.841,0.159,0.1779
+546,FB,2020-11-28,06:28PM,These Are The 5 Best Stocks To Buy And Watch Now,0.0,0.682,0.318,0.6369
+547,FB,2020-11-28,11:59AM,"FB Stock Has New Buy Point In Bullish Base; Facebook Navigates Antitrust, Coronavirus News",0.0,1.0,0.0,0.0
+548,FB,2020-11-27,09:46PM,Tech Giants Face a Tough New Regulator in the U.K. Heres Why it Matters.,0.11,0.809,0.081,-0.1027
+549,FB,2020-11-27,03:18PM,Margrethe Vestager Could Be the Most Powerful Woman in Tech. Heres What Shes Planning Next.,0.0,0.819,0.181,0.4754
+550,FB,2020-11-27,12:01PM,Facebooks Libra could launch in January,0.0,1.0,0.0,0.0
+551,FB,2020-11-27,11:37AM,Facebook's Libra Cryptocurrency Could Launch in January: Report,0.0,1.0,0.0,0.0
+552,FB,2020-11-27,11:29AM,"MicroStrategy, Simon Property Group, Snap, Alphabet and Facebook as Zacks Bull and Bear of the Day",0.0,1.0,0.0,0.0
+553,FB,2020-11-27,10:35AM,"Twitter Hits 80-Plus RS Rating Benchmark, Passing Key Buy Point",0.0,1.0,0.0,0.0
+554,FB,2020-11-27,10:31AM,"Hot Mutual Fund Loves Facebook, Amazon, Apple, Netflix, Google",0.0,0.565,0.435,0.6597
+555,FB,2020-11-27,10:04AM,"Black Friday Sales: Amazon, Target, and Other Retail Stocks to Watch",0.0,0.855,0.145,0.1779
+556,FB,2020-11-27,09:00AM,Belief in Trump Fiction Can Be Worn Down by Fact,0.196,0.804,0.0,-0.296
+557,FB,2020-11-27,08:00AM,Facebooks AI Mistakenly Bans Ads for Struggling Businesses,0.455,0.545,0.0,-0.6124
+558,FB,2020-11-27,04:09AM,Facebook cryptocurrency Libra to launch as early as January but scaled back: FT,0.0,1.0,0.0,0.0
+559,FB,2020-11-27,04:03AM,Facebook cryptocurrency Libra to launch as early as January but scaled back: FT,0.0,1.0,0.0,0.0
+560,FB,2020-11-27,01:28AM,UK to impose new rules to limit tech giants' power,0.196,0.804,0.0,-0.296
+561,FB,2020-11-26,07:07PM,Britain to curb Google and Facebook with tougher competition rules,0.0,0.841,0.159,0.1779
+562,FB,2020-11-26,07:01PM,Google to Face a New Regulator as U.K. Plans Tech-Focused Agency,0.0,1.0,0.0,0.0
+563,FB,2020-11-26,07:01PM,Britain to curb Google and Facebook with tougher competition rules,0.0,0.841,0.159,0.1779
+564,FB,2020-11-26,07:00PM,Here's Why Electric Vehicle Stocks Have Exploded This Year,0.0,1.0,0.0,0.0
+565,FB,2020-11-26,05:00PM,A Millennial Crypto Victory Bigger Than the Price of Bitcoin,0.0,1.0,0.0,0.0
+566,FB,2020-11-26,03:26PM,Facebook's latest ad tool fail puts another dent in its reputation,0.259,0.741,0.0,-0.5423
+567,FB,2020-11-26,09:00AM,Hoping for an Anodyne End to a Tough Year,0.146,0.583,0.272,0.3182
+568,FB,2020-11-25,03:42PM,Apple is making strategic moves to head off antitrust fights,0.231,0.769,0.0,-0.4019
+569,FB,2020-11-25,02:39PM,4 AI Stocks on the Cutting Edge,0.231,0.769,0.0,-0.128
+570,FB,2020-11-25,01:50PM,Millions of Facebook Users Pass on $650 Million Privacy Jackpot,0.0,1.0,0.0,0.0
+571,FB,2020-11-25,10:45AM,Insecures Prentice Penny Joins Facebook #BuyBlack Friday Show: It Felt Like a Natural Connection,0.0,0.688,0.312,0.6124
+572,FB,2020-11-25,08:15AM,France defies U.S. and starts levying digital tax on tech giants. But will this change with a Biden presidency?,0.0,1.0,0.0,0.0
+573,FB,2020-11-25,07:31AM,"Alibaba Stock Woes Wont Last, So Stay Long in the Shares Into 2021",0.18,0.683,0.137,-0.1779
+574,FB,2020-11-25,07:30AM,Hedge Funds Are Finally Beating the Market in 2020. Here Are Their Top Holdings.,0.179,0.714,0.107,-0.296
+575,FB,2020-11-25,07:16AM,French tax authorities have started demanding U.S. firms pay digital tax: report,0.248,0.752,0.0,-0.3182
+576,FB,2020-11-25,04:01AM,"French Tax Authorities Nudge Amazon, Facebook To Shell Out Digital Tax: FT",0.0,0.866,0.134,0.1779
+577,FB,2020-11-25,03:50AM,South Korean watchdog fines Facebook $6.1 million for sharing user info without consent,0.108,0.711,0.181,0.281
+578,FB,2020-11-25,03:47AM,S.Korean watchdog fines Facebook $6.1 mln for sharing user info without consent,0.115,0.691,0.194,0.281
+579,FB,2020-11-25,01:44AM,"Jobless Claims, Stock Rally Cools, ECB Warns - What's up in Markets",0.123,0.877,0.0,-0.1027
+580,FB,2020-11-24,04:18PM,The Latest Unicorn Startup Is a Used Car Website in India,0.0,1.0,0.0,0.0
+581,FB,2020-11-24,03:43PM,Thats why I f with Netflix: Dave Chappelle convinced the streaming giant to remove Chappelles Show while hes not getting paid for it,0.0,0.881,0.119,0.4019
+582,FB,2020-11-24,02:02PM,Instagram businesses and creators may be getting a Messenger-like 'FAQ' feature,0.0,1.0,0.0,0.0
+583,FB,2020-11-24,01:58PM,Hedge Funds Never Been This Bullish On Facebook Inc (FB),0.0,1.0,0.0,0.0
+584,FB,2020-11-24,01:14PM,Senators Ask YouTube to Remove Election Misinformation,0.277,0.723,0.0,-0.3182
+585,FB,2020-11-24,01:00PM,Twitter to Revive Controversial Account Verification System,0.196,0.543,0.261,0.1531
+586,FB,2020-11-24,09:48AM,Lookback: Wedgewood Partners 2019 Facebook (FB) Thesis,0.0,1.0,0.0,0.0
+587,FB,2020-11-24,08:50AM,Will Facebook Or Twitter Stock Grow More By 2025?,0.0,1.0,0.0,0.0
+588,FB,2020-11-24,12:31AM,"Facebook, Inc.'s (NASDAQ:FB) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong?",0.16,0.67,0.17,0.0516
+589,FB,2020-11-23,02:34PM,Micron Technology Stock Gains. Analysts See Rebound for Chips.,0.0,0.769,0.231,0.34
+590,FB,2020-11-23,01:18PM,Why CEOs Are Uniting Against Trump's Election Fight,0.271,0.729,0.0,-0.3818
+591,FB,2020-11-23,12:27PM,Googles new advertising technology is under the regulatory microscope after a group of businesses called for it to be legally blocked,0.098,0.837,0.065,-0.1779
+592,FB,2020-11-23,11:21AM,"Facebook launches 'Drives,' a US-only feature for collecting food, clothing and other necessities for people in need",0.0,1.0,0.0,0.0
+593,FB,2020-11-23,09:19AM,Matthew McConaughey: Social media users risk sense of self on approval of others,0.13,0.679,0.191,0.25
+594,FB,2020-11-23,09:00AM,Snap to Pay $1 Million a Day to Creators for Spotlight Videos,0.123,0.877,0.0,-0.1027
+595,FB,2020-11-23,06:53AM,Facebook Prepares To Cozy Up To The Biden Administration: FT,0.0,1.0,0.0,0.0
+596,FB,2020-11-23,06:00AM,Influencers with Andy Serwer: Emmanuel Acho,0.0,1.0,0.0,0.0
+597,FB,2020-11-23,06:00AM,Emmanuel Acho: Donald Trump cant dictate the perception of the NFL,0.0,1.0,0.0,0.0
+598,FB,2020-11-22,07:05PM,The Hong Kong-Singapore Travel Bubble Has Burst,0.0,1.0,0.0,0.0
+599,FB,2020-11-22,12:00PM,Matthew McConaughey: Social media has been good for business,0.0,0.734,0.266,0.4404
+600,GOOGL,2020-12-02,09:53AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+601,GOOGL,2020-12-02,09:44AM,China and India pose 'real risk' if US can't build 'massive' tech companies: Box CEO,0.13,0.87,0.0,-0.2732
+602,GOOGL,2020-12-02,09:30AM,All the Happiness Money Can Buy in the Winter of Covid-19,0.0,0.735,0.265,0.5574
+603,GOOGL,2020-12-02,09:08AM,"Alphabet Ups Self-Driving Game: Should Amazon, Baidu & Others Worry?",0.25,0.603,0.147,-0.296
+604,GOOGL,2020-12-02,08:58AM,China and India pose real risk if U.S. tech cant grow: Box CEO,0.149,0.851,0.0,-0.2732
+605,GOOGL,2020-12-02,08:23AM,Is Expedia Stock a Buy?,0.0,1.0,0.0,0.0
+606,GOOGL,2020-12-02,08:05AM,"Chinese Stocks To Watch: FB, GOOGL Peer Tencent Music Tunes Up New Breakout",0.0,1.0,0.0,0.0
+607,GOOGL,2020-12-02,07:00AM,Twitch and TikTok Help Breakthrough Artists to Bypass Big Music,0.0,0.769,0.231,0.4019
+608,GOOGL,2020-12-02,07:00AM,A $1B Stock Fund Sees Big Returns by Investing in the Smallest Companies,0.0,1.0,0.0,0.0
+609,GOOGL,2020-12-01,10:26PM,Tiger Global-Backed Hospital Software Maker Olive AI Reaches $1.5 Billion Value,0.0,0.714,0.286,0.3818
+610,GOOGL,2020-12-01,09:00PM,Hewlett Packard Enterprise to Leave Silicon Valley for Texas,0.13,0.87,0.0,-0.0516
+611,GOOGL,2020-12-01,07:27PM,Salesforce to Buy Software Maker Slack for $27.7 Billion,0.0,1.0,0.0,0.0
+612,GOOGL,2020-12-01,05:17PM,Salesforces Splashy Slack Deal Isn't Worth the Risk,0.176,0.633,0.191,0.0382
+613,GOOGL,2020-12-01,05:00PM,"To Avoid Techs Anti-Trust Troubles, India Tries a Hard 30% Cap",0.485,0.515,0.0,-0.6808
+614,GOOGL,2020-12-01,03:50PM,Roku Hires Apples Chief Siri Architect For Software Role,0.0,1.0,0.0,0.0
+615,GOOGL,2020-12-01,03:45PM,"No vaccine, no entry? Will bars and restaurants turn away Brits who havent had their COVID shots?",0.241,0.759,0.0,-0.5803
+616,GOOGL,2020-12-01,03:16PM,Waymo Deepens Investment In Autonomous Trucking,0.0,1.0,0.0,0.0
+617,GOOGL,2020-12-01,03:07PM,Amazon Is Laying the Groundwork for Its Own Quantum Computer,0.0,0.841,0.159,0.1779
+618,GOOGL,2020-12-01,02:27PM,Amazon opens macOS development for first time on AWS,0.0,0.825,0.175,0.1779
+619,GOOGL,2020-12-01,01:35PM,"Google launches Android Enterprise Essentials, a mobile device management service for small businesses",0.0,1.0,0.0,0.0
+620,GOOGL,2020-12-01,01:30PM,YC-backed BuildBuddy raises $3.15M to help developers build software more quickly,0.0,0.787,0.213,0.4019
+621,GOOGL,2020-12-01,12:48PM,"Amazon Web Services Bolsters Bet on Local Cloud, Homegrown Chips",0.0,0.841,0.159,0.1779
+622,GOOGL,2020-12-01,12:45PM,2 Reasons Amazon Will Keep Taking Ad Sales From Google,0.0,0.825,0.175,0.1779
+623,GOOGL,2020-12-01,12:17PM,Online Travel Agencies Have Problems Beyond Covid. One Stock to Buy and One to Sell.,0.162,0.838,0.0,-0.4019
+624,GOOGL,2020-12-01,10:57AM,This Software Stock Could Be a Big Winner From a COVID-19 Vaccine,0.0,0.703,0.297,0.5859
+625,GOOGL,2020-12-01,10:52AM,Updated Airbnb IPO Filing Sets Pricing Range With $35 Billion Valuation,0.0,1.0,0.0,0.0
+626,GOOGL,2020-12-01,10:35AM,"Raven Industries: Small-Cap Agriculture, Balloon Technology Stock Cathie Wood Likes",0.0,0.763,0.237,0.4215
+627,GOOGL,2020-12-01,10:22AM,"The Zacks Analyst Blog Highlights: Amazon, Google, Zoom Video, Automatic Data Processing and Moderna",0.0,0.884,0.116,0.1779
+628,GOOGL,2020-12-01,10:10AM,CNBCs Jim Cramer says these best in show stocks remain the place for your investment dollars,0.0,0.781,0.219,0.6369
+629,GOOGL,2020-12-01,09:22AM,Amazon (AMZN) AWS' Mac Instances Boost Reach to Apple Developers,0.0,0.56,0.44,0.5423
+630,GOOGL,2020-12-01,09:18AM,Nasdaq-100 at Cusp of Another Breakout,0.0,1.0,0.0,0.0
+631,GOOGL,2020-12-01,08:30AM,How Risky Is Snowflake Stock?,0.31,0.69,0.0,-0.2023
+632,GOOGL,2020-12-01,04:12AM,"FAANG Stocks Won't Be Any Less Attractive Even When 'World Goes Back To Normal,' Says Cramer",0.0,0.852,0.148,0.3832
+633,GOOGL,2020-11-30,09:55PM,"Facebook, Google, Other Tech Giants To Face Digital Tax Starting 2022, Canada Says",0.0,1.0,0.0,0.0
+634,GOOGL,2020-11-30,07:01PM,Jim Cramer: FAANG Still Has Teeth,0.0,1.0,0.0,0.0
+635,GOOGL,2020-11-30,06:18PM,Facebook Acquisition Signals Its Desire to Own Customer Service Chats,0.0,0.769,0.231,0.4019
+636,GOOGL,2020-11-30,05:25PM,"Market Recap: Monday, November 30th",0.0,1.0,0.0,0.0
+637,GOOGL,2020-11-30,04:35PM,"Canada plans digital tax in 2022 on global tech giants such as Facebook, Google",0.0,1.0,0.0,0.0
+638,GOOGL,2020-11-30,04:10PM,"'These companies are not people, we should not be protecting them': Galloway on big tech",0.0,1.0,0.0,0.0
+639,GOOGL,2020-11-30,03:15PM,"Top Research Reports for Amazon, Alphabet & Zoom Video",0.0,0.632,0.368,0.3612
+640,GOOGL,2020-11-30,12:01PM,"CORRECTED-Vietnam steps up online crackdown, jailed activists at record high - Amnesty",0.242,0.758,0.0,-0.4939
+641,GOOGL,2020-11-30,11:58AM,Facebook and Google May Face 4 New Antitrust Lawsuits,0.186,0.814,0.0,-0.1531
+642,GOOGL,2020-11-30,11:11AM,Microsoft Comes After Zoom With All-Day Free Video Calls,0.0,0.708,0.292,0.5106
+643,GOOGL,2020-11-30,10:19AM,"Dow Falls on U.S.-China Jitters, Profit Taking on Value Stocks",0.0,0.602,0.398,0.6486
+644,GOOGL,2020-11-30,10:08AM,Here is the 5th Most Popular Stock Among Hedge Funds,0.0,0.744,0.256,0.4754
+645,GOOGL,2020-11-30,08:00AM,"What Are FANG Stocks, And Should You Invest In Them?",0.0,1.0,0.0,0.0
+646,GOOGL,2020-11-30,06:00AM,Antitrust crackdown on Big Tech could impair U.S. competitiveness,0.0,1.0,0.0,0.0
+647,GOOGL,2020-11-30,12:51AM,"Putting Dow 30,000 in Perspective",0.0,1.0,0.0,0.0
+648,GOOGL,2020-11-29,04:31PM,How Reddit Makes Money,0.0,1.0,0.0,0.0
+649,GOOGL,2020-11-29,10:17AM,"Got $3,000? These 2020 Tech Outperformers Have Catalysts Coming in 2021",0.0,1.0,0.0,0.0
+650,GOOGL,2020-11-29,08:45AM,3 Reasons to Sell This Popular Robinhood Stock,0.0,0.682,0.318,0.4215
+651,GOOGL,2020-11-29,08:09AM,4 Stocks to Bankroll Your Retirement,0.0,1.0,0.0,0.0
+652,GOOGL,2020-11-29,08:00AM,Dont Let Dazzle Brands Deceive You,0.351,0.649,0.0,-0.4019
+653,GOOGL,2020-11-28,05:00PM,Apple Suppliers Exodus From China Wont Slow Down Under Biden,0.0,1.0,0.0,0.0
+654,GOOGL,2020-11-28,08:29AM,Is 2U Stock a Buy?,0.0,1.0,0.0,0.0
+655,GOOGL,2020-11-27,09:46PM,Tech Giants Face a Tough New Regulator in the U.K. Heres Why it Matters.,0.11,0.809,0.081,-0.1027
+656,GOOGL,2020-11-27,06:54PM,Hedge Funds Rack Up Big Returns in 2020 With Some Familiar Names,0.0,1.0,0.0,0.0
+657,GOOGL,2020-11-27,11:29AM,"MicroStrategy, Simon Property Group, Snap, Alphabet and Facebook as Zacks Bull and Bear of the Day",0.0,1.0,0.0,0.0
+658,GOOGL,2020-11-27,10:31AM,"Hot Mutual Fund Loves Facebook, Amazon, Apple, Netflix, Google",0.0,0.565,0.435,0.6597
+659,GOOGL,2020-11-27,10:00AM,Is Salesforce Stock A Buy? Will Competition With Microsoft Spur Slack Deal?,0.0,1.0,0.0,0.0
+660,GOOGL,2020-11-27,09:17AM,"No Google-Fitbit merger without human rights remedies, says Amnesty to EU",0.18,0.82,0.0,-0.296
+661,GOOGL,2020-11-27,08:00AM,Facebooks AI Mistakenly Bans Ads for Struggling Businesses,0.455,0.545,0.0,-0.6124
+662,GOOGL,2020-11-27,07:00AM,"These EV Stocks Have Run Too Far, Too Fast",0.0,1.0,0.0,0.0
+663,GOOGL,2020-11-27,06:09AM,"Got $3,000? 3 Growth Stocks to Buy That Could Skyrocket",0.0,0.755,0.245,0.3818
+664,GOOGL,2020-11-27,01:28AM,UK to impose new rules to limit tech giants' power,0.196,0.804,0.0,-0.296
+665,GOOGL,2020-11-27,01:00AM,Jamie Oliver Turns Leftover Mashed Potatoes Into a Brilliant Cheese Pie,0.0,0.703,0.297,0.5859
+666,GOOGL,2020-11-26,07:07PM,Britain to curb Google and Facebook with tougher competition rules,0.0,0.841,0.159,0.1779
+667,GOOGL,2020-11-26,07:01PM,Google to Face a New Regulator as U.K. Plans Tech-Focused Agency,0.0,1.0,0.0,0.0
+668,GOOGL,2020-11-26,07:01PM,Britain to curb Google and Facebook with tougher competition rules,0.0,0.841,0.159,0.1779
+669,GOOGL,2020-11-26,07:00PM,Here's Why Electric Vehicle Stocks Have Exploded This Year,0.0,1.0,0.0,0.0
+670,GOOGL,2020-11-26,09:10AM,"GDPR enforcement must level up to catch big tech, report warns",0.123,0.877,0.0,-0.1027
+671,GOOGL,2020-11-26,07:00AM,10 Stocks to Be Thankful for This Thanksgiving,0.0,0.654,0.346,0.5719
+672,GOOGL,2020-11-26,06:45AM,"If You Have $1,000 and 10 Years to Wait, Buy These 2 Stocks Now",0.0,1.0,0.0,0.0
+673,GOOGL,2020-11-26,06:00AM,The S&P 500 Could Jump 20% Next Year. Three Strategists Explain Why.,0.0,1.0,0.0,0.0
+674,GOOGL,2020-11-26,05:51AM,5 Perfect Stocks to Gobble Up Right Now,0.0,0.619,0.381,0.5719
+675,GOOGL,2020-11-26,01:00AM,Forget the Bargain Basement. Bet on the Next Big Thing,0.162,0.684,0.154,-0.0258
+676,GOOGL,2020-11-25,05:00PM,Big Oil And Big Tech Are Spending Billions On Renewable Energy,0.0,0.826,0.174,0.2732
+677,GOOGL,2020-11-25,02:50PM,"Amazon Cloud Outage Hits Customers Including Roku, Adobe",0.0,0.805,0.195,0.1779
+678,GOOGL,2020-11-25,02:30PM,Why Maradona Was Better Than Messi and Ronaldo,0.0,0.707,0.293,0.4404
+679,GOOGL,2020-11-25,01:19PM,"Salesforce acquisition of Slack could trigger M&A wave, analyst says",0.0,1.0,0.0,0.0
+680,GOOGL,2020-11-25,01:11PM,What will tomorrow's tech look like? Ask someone who can't see,0.0,0.8,0.2,0.3612
+681,GOOGL,2020-11-25,12:26PM,Amazon Web Services suffers amid widespread issues with online applications,0.242,0.625,0.133,-0.34
+682,GOOGL,2020-11-25,12:00PM,Self-Driving-Car Firm Waymo Sharpens Covid Worker-Safety Rules,0.0,1.0,0.0,0.0
+683,GOOGL,2020-11-25,09:49AM,Lookback: Tao Values 2019 Alphabet Inc (GOOG) Thesis,0.0,0.722,0.278,0.4019
+684,GOOGL,2020-11-25,09:21AM,HP CEO: COVID-19 pandemic has reinforced our consumer business,0.0,1.0,0.0,0.0
+685,GOOGL,2020-11-25,09:13AM,Why Upcoming IPO Roblox Could Become the YouTube of Gaming,0.0,1.0,0.0,0.0
+686,GOOGL,2020-11-25,08:39AM,Colin Kaepernick will not play in the NFL again: Emmanuel Acho,0.169,0.831,0.0,-0.2584
+687,GOOGL,2020-11-25,08:15AM,France defies U.S. and starts levying digital tax on tech giants. But will this change with a Biden presidency?,0.0,1.0,0.0,0.0
+688,GOOGL,2020-11-25,07:30AM,Hedge Funds Are Finally Beating the Market in 2020. Here Are Their Top Holdings.,0.179,0.714,0.107,-0.296
+689,GOOGL,2020-11-25,06:33AM,Amazon (AMZN) Cloud Clientele Improves as Zalando Picks AWS,0.0,0.609,0.391,0.5423
+690,GOOGL,2020-11-25,06:30AM,Equal-Weighted Indexes Are Winningand Thats a Good Sign for Stocks,0.0,0.734,0.266,0.4404
+691,GOOGL,2020-11-25,02:50AM,Google Thinking Of 2023 With Its Gaming Service Stadia As War With Fellow Tech Giants Heats Up,0.196,0.804,0.0,-0.5994
+692,GOOGL,2020-11-25,01:30AM,South Korea Unveils AI Chip to Maintain Semiconductor Leadership,0.0,1.0,0.0,0.0
+693,GOOGL,2020-11-24,06:09PM,Airbnb Prepares to IPO,0.0,1.0,0.0,0.0
+694,GOOGL,2020-11-24,04:58PM,YouTube bans One America News Network from posting new videos for a week,0.0,1.0,0.0,0.0
+695,GOOGL,2020-11-24,03:35PM,"YouTube Suspends OAN, a Trump Favorite, For Touting Covid Cure",0.145,0.598,0.256,0.3182
+696,GOOGL,2020-11-24,01:14PM,Senators Ask YouTube to Remove Election Misinformation,0.277,0.723,0.0,-0.3182
+697,GOOGL,2020-11-24,12:59PM,Google Reportedly Wants to Buy Indian Social Media Firm ShareChat,0.0,1.0,0.0,0.0
+698,GOOGL,2020-11-24,11:39AM,Google Back In Buy Zone,0.0,1.0,0.0,0.0
+699,GOOGL,2020-11-24,09:52AM,Lookback: Wedgewood Partners 2019 Alphabet Inc (GOOGL) Thesis,0.0,1.0,0.0,0.0
+700,JNJ,2020-12-02,09:09AM,"These Covid-19 Vaccines Are Safe, Right?",0.0,0.633,0.367,0.4404
+701,JNJ,2020-12-02,07:50AM,"This is why I volunteered for the Novavax COVID-19 vaccine trial, and am still cheering for the underdog",0.0,0.829,0.171,0.5106
+702,JNJ,2020-12-02,07:35AM,"North Korea-linked hackers targeted J&J, Novavax in hunt for COVID research",0.0,1.0,0.0,0.0
+703,JNJ,2020-12-02,06:52AM,Why We Need All 5 of These Coronavirus Vaccine Companies to End the Pandemic,0.0,1.0,0.0,0.0
+704,JNJ,2020-12-02,06:20AM,Should iShares Morningstar LargeCap Value ETF (JKF) Be on Your Investing Radar?,0.0,0.821,0.179,0.34
+705,JNJ,2020-12-02,06:08AM,COVID Vaccine Stocks Update: Where Things Stand Now,0.0,1.0,0.0,0.0
+706,JNJ,2020-12-01,04:55PM,"Activist Shareholders Press Pfizer, J&J, and Other Pharma Companies on Covid Vaccine Price and Access",0.0,1.0,0.0,0.0
+707,JNJ,2020-12-01,03:07PM,Want to Invest in Coronavirus Vaccines? Consider This First,0.0,0.86,0.14,0.0772
+708,JNJ,2020-12-01,02:23PM,New Advances in Treating Difficult Blood Cancers From Johnson & Johnson and Others,0.185,0.815,0.0,-0.3612
+709,JNJ,2020-12-01,11:15AM,"Cramer Weighs In On Peloton, Johnson & Johnson And More",0.0,1.0,0.0,0.0
+710,JNJ,2020-12-01,09:52AM,Moderna (MRNA) Seeks Nod for Emergency Use of COVID-19 Vaccine,0.224,0.776,0.0,-0.3818
+711,JNJ,2020-12-01,09:19AM,AstraZeneca (AZN) Forxiga Approved in Japan for Heart Failure,0.252,0.534,0.214,-0.128
+712,JNJ,2020-12-01,08:00AM,New Survey Finds Critical Need for Education on Cataracts and Modern Treatment Options,0.161,0.839,0.0,-0.3182
+713,JNJ,2020-12-01,06:30AM,Here's Why Johnson & Johnson Is Still in the Coronavirus Vaccine Race,0.0,1.0,0.0,0.0
+714,JNJ,2020-11-30,05:33PM,Is Novavax Stock A Buy As Pressure Mounts For A Covid-19 Vaccine?,0.196,0.804,0.0,-0.296
+715,JNJ,2020-11-30,04:54PM,U.S. coronavirus cases pass 4 million in the month of November,0.0,1.0,0.0,0.0
+716,JNJ,2020-11-30,10:45AM,Is Johnson & Johnson (JNJ) A Good Stock To Buy?,0.0,0.707,0.293,0.4404
+717,JNJ,2020-11-29,01:34PM,The skin lightening industrys history of colorism and the impact of Black Lives Matter,0.0,0.922,0.078,0.0258
+718,JNJ,2020-11-29,11:24AM,15 Best Blue Chip Stocks to Buy Now,0.0,0.625,0.375,0.6369
+719,JNJ,2020-11-28,06:17AM,3 Dividend Aristocrats to Buy and Hold Forever,0.0,1.0,0.0,0.0
+720,JNJ,2020-11-27,04:41PM,"Peru secures 23.1 million future coronavirus vaccine doses from Pfizer, COVAX",0.0,0.813,0.187,0.3182
+721,JNJ,2020-11-27,01:10PM,"Stock market news live updates: Wall Street notches slim gains; Nasdaq, S&P 500 set new records",0.0,0.862,0.138,0.34
+722,JNJ,2020-11-27,09:21AM,"Here's How Much Investing $1,000 In Major Coronavirus Vaccine Developers Before Their Announcements Would Fetch",0.0,1.0,0.0,0.0
+723,JNJ,2020-11-27,06:20AM,Should iShares Russell Top 200 Value ETF (IWX) Be on Your Investing Radar?,0.0,0.724,0.276,0.4939
+724,JNJ,2020-11-25,01:06PM,Overlook Novavax at the Risk of Incurring an Opportunity Cost,0.163,0.62,0.217,0.1779
+725,JNJ,2020-11-25,10:16AM,"COVID-19 is the silent pandemic, this surge is not like last spring: Robert Redfield",0.14,0.86,0.0,-0.2755
+726,JNJ,2020-11-25,07:36AM,3 Stocks to Help You Build Retirement Wealth,0.0,0.459,0.541,0.7096
+727,JNJ,2020-11-25,06:43AM,What Does Johnson & Johnson's Debt Look Like?,0.25,0.5,0.25,0.0
+728,JNJ,2020-11-24,05:25PM,Merck Sales Hit Hardest by Pandemic,0.0,1.0,0.0,0.0
+729,JNJ,2020-11-24,01:30PM,Moderna Set to Sell 160 Million Coronavirus Vaccine Doses to EU,0.0,1.0,0.0,0.0
+730,JNJ,2020-11-24,12:10PM,'Reflationary trends' are going to continue into 2021: Research Affiliates,0.0,1.0,0.0,0.0
+731,JNJ,2020-11-24,12:05PM,EU strikes deal with Moderna to supply up to 160 million COVID vaccine shots,0.161,0.839,0.0,-0.3612
+732,JNJ,2020-11-24,11:36AM,"Pennant Investors Exits Johnson & Johnson, Cuts Amazon",0.247,0.562,0.191,-0.128
+733,JNJ,2020-11-24,11:27AM,How Does AstraZeneca's COVID-19 Vaccine Data Compare to Others'?,0.0,1.0,0.0,0.0
+734,JNJ,2020-11-24,09:21AM,Coronavirus vaccine: AstraZeneca could expand US trial to pursue 90% efficacious vaccine,0.0,0.827,0.173,0.3182
+735,JNJ,2020-11-23,06:48PM,Psychedelic Drug Stock's Biggest Investor Closes $125 Million Funding Round,0.0,1.0,0.0,0.0
+736,JNJ,2020-11-23,12:45PM,3 Dividend Stocks to Buy on Sale,0.0,1.0,0.0,0.0
+737,JNJ,2020-11-23,11:12AM,Coronavirus update: FDA OKs Regeneron antibody EUA; AstraZeneca shows positive vaccine results,0.0,0.753,0.247,0.5574
+738,JNJ,2020-11-23,10:59AM,AstraZeneca vaccine is highly suitable for people in the U.S. & Europe: AstraZeneca exec,0.0,1.0,0.0,0.0
+739,JNJ,2020-11-23,09:46AM,10 Best Selling Products Online in 2020,0.0,0.588,0.412,0.6369
+740,JNJ,2020-11-23,03:43AM,Q&A: Where are we in the COVID-19 vaccine race?,0.0,1.0,0.0,0.0
+741,JNJ,2020-11-23,02:44AM,"Bill Gates Says AstraZeneca, Johnson & Johnson, Novavax COVID-19 Vaccines All Likely To Prove 'Very Efficacious And Safe' By February",0.0,0.851,0.149,0.4877
+742,JNJ,2020-11-22,05:12PM,Brazil signs letter of intent to purchase five COVID vaccines,0.0,1.0,0.0,0.0
+743,JNJ,2020-11-22,02:01PM,Top COVID Vaccine Stocks to Buy Now,0.0,0.769,0.231,0.2023
+744,JNJ,2020-11-22,09:15AM,Why Do Baby Boomers Love AT&T?,0.0,0.543,0.457,0.6369
+745,JNJ,2020-11-21,07:04AM,Where Will Vaxart Be in 1 Year?,0.0,1.0,0.0,0.0
+746,JNJ,2020-11-20,04:25PM,"U.S. sees spike in daily COVID-19 cases, hospitalizations surge",0.0,1.0,0.0,0.0
+747,JNJ,2020-11-20,12:50PM,7 Hot Stocks to Buy Before 2021 Ushers in Change,0.0,1.0,0.0,0.0
+748,JNJ,2020-11-20,11:25AM,"Moderna, Pfizer having similar efficacies is quite encouraging: Doctor on vaccine progress",0.0,0.606,0.394,0.7574
+749,JNJ,2020-11-20,10:15AM,WHO advises against using Remdesivir to treat COVID-19,0.0,0.722,0.278,0.4019
+750,JNJ,2020-11-20,09:54AM,Johnson & Johnson ordered to pay $120 million damages in New York baby powder case,0.264,0.736,0.0,-0.5106
+751,JNJ,2020-11-20,09:45AM,Is Johnson & Johnson (JNJ) a Suitable Pick for Value Investors?,0.0,0.769,0.231,0.34
+752,JNJ,2020-11-20,09:44AM,"Pharma Stock Roundup: PFE COVID-19 Vaccine Final Analysis, FDA Updates & More",0.0,1.0,0.0,0.0
+753,JNJ,2020-11-20,07:55AM,Pfizer and partner BioNTech to seek emergency-use authorization for COVID-19 vaccine Friday,0.0,1.0,0.0,0.0
+754,JNJ,2020-11-20,06:09AM,Here's the Coronavirus Vaccine Maker That's Most Likely to Blow Past Pfizer and Moderna,0.0,1.0,0.0,0.0
+755,JNJ,2020-11-20,05:30AM,Coronavirus update: Pfizer/BioNTech file for emergency vaccine use as WHO hits Gilead's remdesivir,0.178,0.822,0.0,-0.3818
+756,JNJ,2020-11-19,05:06PM,Alan Fournier's Top 5 Trades of the 3rd Quarter,0.0,0.795,0.205,0.2023
+757,JNJ,2020-11-19,04:51PM,"COVID-19 is very real, not a hoax: ER Doctor",0.0,0.771,0.229,0.2681
+758,JNJ,2020-11-19,10:26AM,Its extremely urgent Congress passes another stimulus bill to help hospitals: CEO,0.0,0.676,0.324,0.5849
+759,JNJ,2020-11-19,10:00AM,"Vaccines Fight Covid, But Can They Stop the Spread?",0.407,0.593,0.0,-0.5859
+760,JNJ,2020-11-19,02:50AM,COVID-19 Vaccine Update  The Numbers are Impressive but the Markets Need More,0.0,0.837,0.163,0.2846
+761,JNJ,2020-11-18,03:44PM,Stocks Are on Hold. 3 Factors That Could Send Them Higher.,0.0,1.0,0.0,0.0
+762,JNJ,2020-11-18,07:34AM,3 Surefire Stocks to Buy If the Market Crashes,0.0,0.778,0.222,0.25
+763,JNJ,2020-11-18,06:46AM,2 Great Dividend Stocks Whose Payouts Could Double,0.0,0.594,0.406,0.6249
+764,JNJ,2020-11-18,05:50AM,Spain authorises Phase III trial of Johnson & Johnson COVID-19 vaccine,0.0,1.0,0.0,0.0
+765,JNJ,2020-11-18,05:21AM,Spain authorises Phase III trial of Johnson & Johnson COVID-19 vaccine,0.0,1.0,0.0,0.0
+766,JNJ,2020-11-18,01:29AM,15 Largest Biotech Companies in the World,0.0,1.0,0.0,0.0
+767,JNJ,2020-11-17,11:44PM,"Johnson & Johnson (NYSE:JNJ) Is About To Go Ex-Dividend, And It Pays A 2.7% Yield",0.0,1.0,0.0,0.0
+768,JNJ,2020-11-17,02:20PM,J&J could have data for U.S. authorization of COVID-19 vaccine by February - Reuters interview,0.0,1.0,0.0,0.0
+769,JNJ,2020-11-17,12:29PM,Moderna Gets Wall Street Reappraisal After Its Positive Covid-19 Vaccine News,0.0,0.735,0.265,0.5574
+770,JNJ,2020-11-17,09:51AM,Tesla to Join S&P 500 Next Month as Largest-Ever New Member,0.0,0.82,0.18,0.296
+771,JNJ,2020-11-17,08:00AM,Johnson & Johnson to Address Racial and Social Injustice Through Platform that Aims to Eliminate Health Inequities for People of Color,0.163,0.837,0.0,-0.5719
+772,JNJ,2020-11-17,06:38AM,3 Dividend Aristocrats That Could Make You Rich,0.0,0.625,0.375,0.5574
+773,JNJ,2020-11-16,06:03PM,Oil Continues Up on Latest Vaccines Positivity,0.0,0.645,0.355,0.5106
+774,JNJ,2020-11-16,02:39PM,I cant imagine this is a long-term moneymaker: Desk strategist on vaccine profit for pharmaceutical companies,0.0,0.818,0.182,0.4404
+775,JNJ,2020-11-16,01:54PM,15 Largest Drug Companies in the World,0.0,1.0,0.0,0.0
+776,JNJ,2020-11-16,01:04PM,Vaccine Hopes Push Markets To Frothy Levels: Stocks To Watch,0.0,0.763,0.237,0.4215
+777,JNJ,2020-11-16,12:13PM,"Moderna, Pfizers potential Covid-19 vaccines are encouraging: Dr. Brian Garibaldi",0.0,0.726,0.274,0.5267
+778,JNJ,2020-11-16,10:07AM,"Moderna CEO on COVID-19 vaccine effectiveness, emergency use period",0.245,0.755,0.0,-0.3818
+779,JNJ,2020-11-16,10:04AM,Why Modernas Vaccine Win Is a Giant Leap Against Pandemics,0.0,0.678,0.322,0.5859
+780,JNJ,2020-11-16,09:50AM,J&J (JNJ) Expands BARDA Deal for COVID-19 Vaccine Development,0.0,0.851,0.149,0.1027
+781,JNJ,2020-11-16,08:45AM,COVID-19  Moderna Delivers Even More Impressive Results,0.0,0.625,0.375,0.5563
+782,JNJ,2020-11-16,08:18AM,Pfizer (PFE) and the Headline Effect,0.0,1.0,0.0,0.0
+783,JNJ,2020-11-16,02:31AM,Johnson & Johnson Begins Two-Dose Phase 3 Trial Of COVID-19 Vaccine,0.0,1.0,0.0,0.0
+784,JNJ,2020-11-15,03:00PM,"Nvidia, Walmart, Home Depot, Cummins, and Other Stocks for Investors to Watch This Week",0.0,1.0,0.0,0.0
+785,JNJ,2020-11-15,06:15AM,Should You Buy a Basket of Late-Stage Coronavirus Vaccine Stocks?,0.0,1.0,0.0,0.0
+786,JNJ,2020-11-15,06:11AM,Investors Wish They Could Vote These 2 Healthcare CEOs Out,0.0,0.748,0.252,0.4019
+787,JNJ,2020-11-15,02:57AM,COVID-19  Updates on Vaccine Trials are coming. Is Pfizer Still out Ahead?,0.0,1.0,0.0,0.0
+788,JNJ,2020-11-14,12:27PM,J&J and U.S. Government Earmark $1 Billion for Covid-19 Vaccine Trials,0.0,1.0,0.0,0.0
+789,JNJ,2020-11-14,10:11AM,"Johnson & Johnson, U.S. gov't expand pact to support next phase of COVID-19 vaccine R&D",0.0,0.706,0.294,0.6124
+790,JNJ,2020-11-14,09:34AM,Johnson & Johnson and U.S. Department of Health & Human Services Expand Agreement to Support Next Phase of COVID-19 Vaccine Candidate Research and Development,0.0,0.699,0.301,0.802
+791,JNJ,2020-11-14,07:11AM,Why You Shouldn't Ignore Johnson & Johnson,0.0,0.703,0.297,0.2755
+792,JNJ,2020-11-13,01:20PM,The challenges African countries face to get hold of the Covid-19 vaccine,0.0,0.894,0.106,0.0772
+793,JNJ,2020-11-13,12:07PM,Is JNJ Stock A Buy As It Ramps Coronavirus Vaccine Testing Efforts?,0.0,1.0,0.0,0.0
+794,JNJ,2020-11-13,09:59AM,Price Over Earnings Overview: Johnson & Johnson,0.0,1.0,0.0,0.0
+795,JNJ,2020-11-13,08:27AM,"Pharma Stock Roundup: PFE Coronavirus Data, FDA Emergency Tag for LLY COVID-19 Drug",0.178,0.822,0.0,-0.3818
+796,JNJ,2020-11-13,07:38AM,J&J (JNJ) Seeks Label Expansion of Darzalex Faspro Combination,0.0,1.0,0.0,0.0
+797,JNJ,2020-11-12,04:34PM,Dow Sinks As McConnell Digs In On Stimulus; This Warren Buffett Stock Breaks Out,0.0,1.0,0.0,0.0
+798,JNJ,2020-11-12,04:34PM,Dow Sinks As McConnell Digs In On Stimulus; This Warren Buffet Stock Breaks Out,0.0,1.0,0.0,0.0
+799,JNJ,2020-11-12,04:03PM,Psychedelic Drug IPO Explains Why It's Cautious On Oregon's Legalization,0.135,0.865,0.0,-0.1027
