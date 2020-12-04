@@ -13,9 +13,12 @@ import pickle
 
 # Extracting word features
 def get_words_in_tweets(p):
+    print(p)
     all = []
     for (words, sentiment) in p:
         all.extend(words)
+
+    print(all)
     return all
 
 
@@ -93,6 +96,7 @@ save_classifier.close()
 # classifier_f = open("data/naivebayes.pickle", "rb")
 # classifier = pickle.load(classifier_f)
 # classifier_f.close()
+tweets = []
 for index, row in test.iterrows():
     words_filtered = [e.lower() for e in row.Text.split() if len(e) >= 3]
     words_cleaned = [word for word in words_filtered
@@ -103,7 +107,7 @@ for index, row in test.iterrows():
     words_without_stopwords = [word for word in words_cleaned if not word in stopwords_set]
     tweets.append((words_without_stopwords, row.Sentiment))
 w_features = get_word_features(get_words_in_tweets(tweets))
+print(w_features)
 test_set = nltk.classify.apply_features(extract_features, tweets)
 print("Accuracy is:" + str(classify.accuracy(classifier, test_set)))
-
 print(classifier.show_most_informative_features(10))
